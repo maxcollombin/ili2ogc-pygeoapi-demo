@@ -1,0 +1,24 @@
+{
+  "name": "ili2ogc pygeoapi demo",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {
+      "moby": false
+    }
+  },
+  "hostRequirements": {
+    "cpus": 2,
+    "memory": "8gb"
+  },
+  "forwardPorts": [
+    5000
+  ],
+  "portsAttributes": {
+    "5000": {
+      "label": "pygeoapi",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "postStartCommand": "bash -c 'export PYGEOAPI_SERVER_URL=\"https://${CODESPACE_NAME}-5000.${GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN}\"; docker compose up --build -d'",
+  "postCreateCommand": "pip install -q -r notebooks/requirements.txt"
+}

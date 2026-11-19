@@ -68,6 +68,11 @@ def main() -> None:
     connection = psycopg2.connect(os.environ["DATABASE_URL"])
     connection.autocommit = True  # the data script carries its own transaction
     cursor = connection.cursor()
+    # pygeoapi only reads: it connects as this role, not as the superuser that owns the data.
+    cursor.execute(
+        "DO $$ BEGIN IF NOT EXISTS (SELECT FROM pg_roles WHERE rolname = 'reader') "
+        "THEN CREATE ROLE reader LOGIN PASSWORD 'reader'; END IF; END $$"
+    )
     for name, transfers in TRANSFERS.items():
         home, files = f"{COLLECTIONS}/{name}", [f"{SOURCES}/{t}" for t in transfers]
         views, symbology, repos = f"{home}/views.ili", f"{home}/symbology.ili", ["--repo", MODELS, "--repo", home, "--repo", SHARED]
@@ -80,6 +85,7 @@ def main() -> None:
             with open(f"/tmp/{name}_{part}.sql") as sql:
                 cursor.execute(sql.read())
         cursor.execute("SET search_path TO public")
+        cursor.execute(f"GRANT USAGE ON SCHEMA {name} TO reader; GRANT SELECT ON ALL TABLES IN SCHEMA {name} TO reader")
         with open(symbology) as model:
             graphics = re.findall(r"^\s*GRAPHIC (\w+)", model.read(), re.M)
         for graphic in graphics:
