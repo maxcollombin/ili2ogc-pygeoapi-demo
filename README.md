@@ -9,7 +9,18 @@ from their INTERLIS transfers, converted by
 docker compose up --build
 ```
 
-Then open <http://localhost:5000>. Each dataset is a directory under
+Then open <http://localhost:5000>.
+
+To try it without installing anything, open the repository in
+[GitHub Codespaces](https://codespaces.new/geostandards-ch/ili2ogc-pygeoapi-demo?quickstart=1):
+the stack starts by itself (about five minutes; the free monthly quota is the
+user's own). The same Codespace runs the guided exercises in `notebooks/`
+(INTERLIS VIEWs, graphic rules, ili2ogc, publishing with pygeoapi). The user
+documentation (French and German) is in `documentation/`; hosting and
+maintenance of the demonstrator are described in the appendix of the project
+report on taking over the demonstrator.
+
+Each dataset is a directory under
 `collections/` (its INTERLIS VIEWs, symbology and signs); the official
 models they import are fetched from the INTERLIS model repositories.
 
