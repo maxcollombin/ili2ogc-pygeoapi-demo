@@ -1,0 +1,5 @@
+ili2ogc==0.9.0
+pygeoapi>=0.24
+folium
+requests
+pyproj

@@ -1,0 +1,15 @@
+# mybinder.org lit ce fichier. Python 3.12 est nécessaire (ili2ogc et pygeoapi >= 0.24 ne se
+# construisent pas avec le Python 3.10 que Binder choisit sans cette indication).
+name: ili2ogc-demo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - ili2ogc==0.9.0
+      - pygeoapi>=0.24
+      - folium
+      - requests
+      - pyproj
+      - jupyterlab

@@ -1,0 +1,6 @@
+modeles/
+sorties/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+solutions_*.ipynb
