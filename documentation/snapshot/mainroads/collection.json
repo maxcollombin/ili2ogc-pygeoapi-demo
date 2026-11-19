@@ -1,0 +1,129 @@
+{
+  "id": "mainroads",
+  "links": [
+    {
+      "type": "text/html",
+      "rel": "describedby",
+      "title": "geocat.ch metadata record",
+      "href": "https://www.geocat.ch/geonetwork/srv/eng/catalog.search#/metadata/c1333de6-fb91-4b0b-be95-8eab89b05358",
+      "hreflang": "en-US"
+    },
+    {
+      "type": "application/json",
+      "rel": "root",
+      "title": "The landing page of this server as JSON",
+      "href": "http://localhost:5000?f=json"
+    },
+    {
+      "type": "text/html",
+      "rel": "root",
+      "title": "The landing page of this server as HTML",
+      "href": "http://localhost:5000?f=html"
+    },
+    {
+      "type": "application/json",
+      "rel": "self",
+      "title": "This document as JSON",
+      "href": "http://localhost:5000/collections/mainroads?f=json"
+    },
+    {
+      "type": "application/ld+json",
+      "rel": "alternate",
+      "title": "This document as RDF (JSON-LD)",
+      "href": "http://localhost:5000/collections/mainroads?f=jsonld"
+    },
+    {
+      "type": "text/html",
+      "rel": "alternate",
+      "title": "This document as HTML",
+      "href": "http://localhost:5000/collections/mainroads?f=html"
+    },
+    {
+      "type": "application/schema+json",
+      "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+      "title": "Schema of collection in JSON",
+      "href": "http://localhost:5000/collections/mainroads/schema?f=json"
+    },
+    {
+      "type": "text/html",
+      "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+      "title": "Schema of collection in HTML",
+      "href": "http://localhost:5000/collections/mainroads/schema?f=html"
+    },
+    {
+      "type": "application/schema+json",
+      "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+      "title": "Queryables for this collection as JSON",
+      "href": "http://localhost:5000/collections/mainroads/queryables?f=json"
+    },
+    {
+      "type": "text/html",
+      "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+      "title": "Queryables for this collection as HTML",
+      "href": "http://localhost:5000/collections/mainroads/queryables?f=html"
+    },
+    {
+      "type": "application/geo+json",
+      "rel": "items",
+      "title": "Items as GeoJSON",
+      "href": "http://localhost:5000/collections/mainroads/items?f=json"
+    },
+    {
+      "type": "application/ld+json",
+      "rel": "items",
+      "title": "Items as RDF (GeoJSON-LD)",
+      "href": "http://localhost:5000/collections/mainroads/items?f=jsonld"
+    },
+    {
+      "type": "text/html",
+      "rel": "items",
+      "title": "Items as HTML",
+      "href": "http://localhost:5000/collections/mainroads/items?f=html"
+    },
+    {
+      "type": "text/csv; charset=utf-8",
+      "rel": "items",
+      "title": "Items as CSV",
+      "href": "http://localhost:5000/collections/mainroads/items?f=csv"
+    },
+    {
+      "type": "application/geo+json",
+      "rel": "items",
+      "title": "Items as jsonfg",
+      "href": "http://localhost:5000/collections/mainroads/items?f=jsonfg"
+    },
+    {
+      "type": "image/png",
+      "rel": "http://www.opengis.net/def/rel/ogc/1.0/map",
+      "title": "Map as png",
+      "href": "http://localhost:5000/collections/mainroads/map?f=png"
+    }
+  ],
+  "title": "Main roads network",
+  "description": "Dieser Datensatz umfasst das Netz der schweizerischen Hauptstrassen, das in der Verordnung über die Verwendung der zweckgebundenen Mineralölsteuer im Strassenverkehr (MinVV) festgelegt ist. Der Bund, der den Kantonen Beiträge für das Hauptstrassennetz gewährt, definiert eindeutig, welche Infrastruktur zum Hauptstrassennetz gehört. Die Achsen der Hauptstrassen können für die Beschreibung und die Referenzierung von Sachverhalten entlang der Strassen verwendet werden. Im Gegensatz zum schweizerischen Hauptstrassennetz gem. MinVV wird das Hauptstrassennetz gemäss Durchgangsstrassenverordnung auf nationaler Ebene nicht kartografisch dargestellt. Die Durchgangsstrassenverordnung hält lediglich die Strassenverbindungen fest, die dem Durchgangsverkehr offenstehen müssen. Welcher Streckenverlauf resp. welche Strasseninfrastruktur genau betroffen ist, wird hingegen nicht angegeben.",
+  "keywords": [
+    "main road",
+    "geodata",
+    "axis",
+    "official geodata",
+    "Switzerland"
+  ],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          6.0501,
+          45.8688,
+          10.4873,
+          47.802
+        ]
+      ]
+    }
+  },
+  "itemType": "feature",
+  "crs": [
+    "http://www.opengis.net/def/crs/EPSG/0/2056",
+    "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+  ],
+  "storageCrs": "http://www.opengis.net/def/crs/EPSG/0/2056"
+}

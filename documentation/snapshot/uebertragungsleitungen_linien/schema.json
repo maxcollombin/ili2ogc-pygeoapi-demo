@@ -1,0 +1,144 @@
+{
+  "type": "object",
+  "title": "Electricity Transmission Lines sectoral plan (lines)",
+  "properties": {
+    "geometry": {
+      "format": "geometry-any",
+      "x-ogc-role": "primary-geometry"
+    },
+    "name": {
+      "type": "string"
+    },
+    "name_de": {
+      "type": "string"
+    },
+    "name_en": {
+      "type": "string"
+    },
+    "name_fr": {
+      "type": "string"
+    },
+    "name_it": {
+      "type": "string"
+    },
+    "name_rm": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "description_de": {
+      "type": "string"
+    },
+    "description_en": {
+      "type": "string"
+    },
+    "description_fr": {
+      "type": "string"
+    },
+    "description_it": {
+      "type": "string"
+    },
+    "description_rm": {
+      "type": "string"
+    },
+    "type_id": {
+      "type": "string"
+    },
+    "type_name": {
+      "type": "string"
+    },
+    "type_name_de": {
+      "type": "string"
+    },
+    "type_name_en": {
+      "type": "string"
+    },
+    "type_name_fr": {
+      "type": "string"
+    },
+    "type_name_it": {
+      "type": "string"
+    },
+    "type_name_rm": {
+      "type": "string"
+    },
+    "coord_id": {
+      "type": "integer"
+    },
+    "coord_name": {
+      "type": "string"
+    },
+    "coord_name_de": {
+      "type": "string"
+    },
+    "coord_name_en": {
+      "type": "string"
+    },
+    "coord_name_fr": {
+      "type": "string"
+    },
+    "coord_name_it": {
+      "type": "string"
+    },
+    "coord_name_rm": {
+      "type": "string"
+    },
+    "status_id": {
+      "type": "integer"
+    },
+    "status_name": {
+      "type": "string"
+    },
+    "status_name_de": {
+      "type": "string"
+    },
+    "status_name_en": {
+      "type": "string"
+    },
+    "status_name_fr": {
+      "type": "string"
+    },
+    "status_name_it": {
+      "type": "string"
+    },
+    "status_name_rm": {
+      "type": "string"
+    },
+    "symbolori": {
+      "type": "number"
+    },
+    "modinfo_validfrom": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "modinfo_validuntil": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "modinfo_latestmodification": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "facility_name": {
+      "type": "string"
+    },
+    "facility_name_de": {
+      "type": "string"
+    },
+    "facility_name_en": {
+      "type": "string"
+    },
+    "facility_name_fr": {
+      "type": "string"
+    },
+    "facility_name_it": {
+      "type": "string"
+    },
+    "facility_name_rm": {
+      "type": "string"
+    }
+  },
+  "$schema": "http://json-schema.org/draft/2019-09/schema",
+  "$id": "http://localhost:5000/collections/uebertragungsleitungen_linien/schema"
+}

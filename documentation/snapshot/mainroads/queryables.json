@@ -1,0 +1,24 @@
+{
+  "type": "object",
+  "title": "Main roads network",
+  "properties": {
+    "geometry": {
+      "format": "geometry-any",
+      "x-ogc-role": "primary-geometry"
+    },
+    "canton": {
+      "title": "canton",
+      "type": "string"
+    },
+    "roadnumber": {
+      "title": "roadnumber",
+      "type": "string"
+    },
+    "segmentdescription": {
+      "title": "segmentdescription",
+      "type": "string"
+    }
+  },
+  "$schema": "http://json-schema.org/draft/2019-09/schema",
+  "$id": "http://localhost:5000/collections/mainroads/queryables?f=json"
+}

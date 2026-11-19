@@ -1,0 +1,41 @@
+{
+  "type": "object",
+  "title": "Richtplanung erneuerbare Energien (Punkte)",
+  "properties": {
+    "geometry": {
+      "format": "geometry-any",
+      "x-ogc-role": "primary-geometry"
+    },
+    "objektbezeichnung": {
+      "type": "string"
+    },
+    "beschrieb": {
+      "type": "string"
+    },
+    "objektart": {
+      "type": "string"
+    },
+    "energieform": {
+      "type": "string"
+    },
+    "genehmigungsdatum": {
+      "type": "string",
+      "format": "date"
+    },
+    "beschlussdatumkanton": {
+      "type": "string",
+      "format": "date"
+    },
+    "kanton": {
+      "type": "string"
+    },
+    "weblink": {
+      "type": "string"
+    },
+    "bemerkungen": {
+      "type": "string"
+    }
+  },
+  "$schema": "http://json-schema.org/draft/2019-09/schema",
+  "$id": "http://localhost:5000/collections/richtplanung_punkte/schema"
+}

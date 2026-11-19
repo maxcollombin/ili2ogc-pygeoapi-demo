@@ -1,0 +1,347 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "pm1",
+        "name": null,
+        "name_de": "Nr. 100 / 380 kV Leitungszug Froloo - Sierentz",
+        "name_en": null,
+        "name_fr": "N° 100 / 380 kV Ligne Froloo - Sierentz",
+        "name_it": "No 100 / 380 kV Linea Froloo - Sierentz",
+        "name_rm": null,
+        "description": null,
+        "description_de": null,
+        "description_en": null,
+        "description_fr": null,
+        "description_it": null,
+        "description_rm": null,
+        "type_id": "mt1",
+        "type_name": null,
+        "type_name_de": "Start- oder Endpunkt für eine Übertragungsleitung",
+        "type_name_en": null,
+        "type_name_fr": "Point de départ ou d'arrivée d'une ligne de transport d'électricité",
+        "type_name_it": "Punto di partenza o arrivo di un elettrodotto",
+        "type_name_rm": null,
+        "coord_id": 3,
+        "coord_name": null,
+        "coord_name_de": "Vororientierung",
+        "coord_name_en": null,
+        "coord_name_fr": "Information préalable",
+        "coord_name_it": "Informazione preliminare",
+        "coord_name_rm": null,
+        "status_id": 1,
+        "status_name": null,
+        "status_name_de": "in Kraft",
+        "status_name_en": null,
+        "status_name_fr": "en vigueur",
+        "status_name_it": "in vigore",
+        "status_name_rm": null,
+        "symbolori": 70.0,
+        "modinfo_validfrom": "2001-04-12T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2001-04-12T00:00:00",
+        "facility_name": null,
+        "facility_name_de": "Nr. 100 / 380 kV Leitungszug Froloo - Sierentz",
+        "facility_name_en": null,
+        "facility_name_fr": "N° 100 / 380 kV Ligne Froloo - Sierentz",
+        "facility_name_it": "No 100 / 380 kV Linea Froloo - Sierentz",
+        "facility_name_rm": null
+      },
+      "id": "pm1",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.536529802822129,
+            47.55545749732944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "pm10",
+        "name": null,
+        "name_de": "Nr. 132 / 400 kV Leitungszug Lavorgo - Chiasso/Landesgrenze (- Bovisio I)",
+        "name_en": null,
+        "name_fr": "N° 132 / 400 kV Ligne Lavorgo - Chiasso/Landesgrenze (- Bovisio I)",
+        "name_it": "No 132 / 400 kV Linea Lavorgo - Chiasso/Landesgrenze (- Bovisio I)",
+        "name_rm": null,
+        "description": null,
+        "description_de": null,
+        "description_en": null,
+        "description_fr": null,
+        "description_it": null,
+        "description_rm": null,
+        "type_id": "mt1",
+        "type_name": null,
+        "type_name_de": "Start- oder Endpunkt für eine Übertragungsleitung",
+        "type_name_en": null,
+        "type_name_fr": "Point de départ ou d'arrivée d'une ligne de transport d'électricité",
+        "type_name_it": "Punto di partenza o arrivo di un elettrodotto",
+        "type_name_rm": null,
+        "coord_id": 3,
+        "coord_name": null,
+        "coord_name_de": "Vororientierung",
+        "coord_name_en": null,
+        "coord_name_fr": "Information préalable",
+        "coord_name_it": "Informazione preliminare",
+        "coord_name_rm": null,
+        "status_id": 1,
+        "status_name": null,
+        "status_name_de": "in Kraft",
+        "status_name_en": null,
+        "status_name_fr": "en vigueur",
+        "status_name_it": "in vigore",
+        "status_name_rm": null,
+        "symbolori": 78.0,
+        "modinfo_validfrom": "2004-02-01T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2004-02-01T00:00:00",
+        "facility_name": null,
+        "facility_name_de": "Nr. 132 / 400 kV Leitungszug Lavorgo - Chiasso/Landesgrenze (- Bovisio I)",
+        "facility_name_en": null,
+        "facility_name_fr": "N° 132 / 400 kV Ligne Lavorgo - Chiasso/Landesgrenze (- Bovisio I)",
+        "facility_name_it": "No 132 / 400 kV Linea Lavorgo - Chiasso/Landesgrenze (- Bovisio I)",
+        "facility_name_rm": null
+      },
+      "id": "pm10",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            8.839272732080483,
+            46.438689574003874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "pm100",
+        "name": null,
+        "name_de": "Nr. 815.20 / 132 kV Leitungszug Arlesheim - Laufen",
+        "name_en": null,
+        "name_fr": "N° 815.20 / 132 kV Ligne Arlesheim - Laufen",
+        "name_it": "No 815.20 / 132 kV Linea Arlesheim - Laufen",
+        "name_rm": null,
+        "description": null,
+        "description_de": "Teil des strategischen Übertragungsnetzes gemäss Bundesratsbeschluss vom 6. März 2009;\nUmbau 66/132 kV; \nSÜL-Verfahren für 3 Teilabschnitte: Arlesheim - Laufen (exkl.); Laufen (exkl.) - Soyhières; Bellerive - Delémont. Aufgrund des SÜL-Checks hat das BFE am 27.07.2010 entschieden, dass kein SÜL-Verfahren durchgeführt wird.\nÜbrige Teile: Muttenz - Arlesheim, Bereich Bahnhof Laufen und Soyhières - Bellerive bereits gebaut",
+        "description_en": null,
+        "description_fr": "Fait partie du réseau stratégique des lignes de transport d'électricité selon décision du Conseil fédéral du 6 mars 2009;\nTransform. 66/132 kV; \nProcédure PSE pour 3 tronçons: Arlesheim - Laufen (excl.); Laufon (excl.) - Soyhières; Bellerive - Delémont. Suite au «contrôle PSE», l'OFEN a décidé qu'une procédure PSE n'était pas nécessaire.\nAutres tronçons: les tronçons Muttenz - Arlesheim, gare de Laufon et Soyhières - Bellerive sont déjà construits",
+        "description_it": "Parte della rete di trasmissione elettrica strategica ai sensi del decreto del 6 marzo 2009 del Consiglio federale;\nTrasformazione 66/132 kV; \nProcedura PSE per 3 tratti parziali: Arlesheim - Laufen (escl.); Laufen (escl.) - Soyhières; Bellerive - Delémont. In seguito al cosiddetto \"check PSE\" l'UFE ha deciso in data 27.07.2010 di rinunciare ad una procedura PSE.\nAltri tratti: Muttenz - Arlesheim, settore stazione Laufen e Soyhières - Bellerive già costruiti",
+        "description_rm": null,
+        "type_id": "mt1",
+        "type_name": null,
+        "type_name_de": "Start- oder Endpunkt für eine Übertragungsleitung",
+        "type_name_en": null,
+        "type_name_fr": "Point de départ ou d'arrivée d'une ligne de transport d'électricité",
+        "type_name_it": "Punto di partenza o arrivo di un elettrodotto",
+        "type_name_rm": null,
+        "coord_id": 3,
+        "coord_name": null,
+        "coord_name_de": "Vororientierung",
+        "coord_name_en": null,
+        "coord_name_fr": "Information préalable",
+        "coord_name_it": "Informazione preliminare",
+        "coord_name_rm": null,
+        "status_id": 1,
+        "status_name": null,
+        "status_name_de": "in Kraft",
+        "status_name_en": null,
+        "status_name_fr": "en vigueur",
+        "status_name_it": "in vigore",
+        "status_name_rm": null,
+        "symbolori": 125.0,
+        "modinfo_validfrom": "2001-04-12T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2001-04-12T00:00:00",
+        "facility_name": null,
+        "facility_name_de": "Nr. 815 / 132 kV Leitungszug Muttenz - Delémont",
+        "facility_name_en": null,
+        "facility_name_fr": "N° 815 / 132 kV Ligne Muttenz - Delémont",
+        "facility_name_it": "No 815 / 132 kV Linea Muttenz - Delémont",
+        "facility_name_rm": null
+      },
+      "id": "pm100",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.617927717859503,
+            47.51552839029648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "pm101",
+        "name": null,
+        "name_de": "Nr. 815.40 / 132 kV Leitungszug Laufen - Soyhières",
+        "name_en": null,
+        "name_fr": "N° 815.40 / 132 kV Ligne Laufen - Soyhières",
+        "name_it": "No 815.40 / 132 kV Linea Laufen - Soyhières",
+        "name_rm": null,
+        "description": null,
+        "description_de": "Teil des strategischen Übertragungsnetzes gemäss Bundesratsbeschluss vom 6. März 2009;\nUmbau 66/132 kV; \nSÜL-Verfahren für 3 Teilabschnitte: Arlesheim - Laufen (exkl.); Laufen (exkl.) - Soyhières; Bellerive - Delémont. Aufgrund des SÜL-Checks hat das BFE am 27.07.2010 entschieden, dass kein SÜL-Verfahren durchgeführt wird.\nÜbrige Teile: Muttenz - Arlesheim, Bereich Bahnhof Laufen und Soyhières - Bellerive bereits gebaut",
+        "description_en": null,
+        "description_fr": "Fait partie du réseau stratégique des lignes de transport d'électricité selon décision du Conseil fédéral du 6 mars 2009;\nTransform. 66/132 kV; \nProcédure PSE pour 3 tronçons: Arlesheim - Laufen (excl.); Laufon (excl.) - Soyhières; Bellerive - Delémont. Suite au «contrôle PSE», l'OFEN a décidé qu'une procédure PSE n'était pas nécessaire.\nAutres tronçons: les tronçons Muttenz - Arlesheim, gare de Laufon et Soyhières - Bellerive sont déjà construits",
+        "description_it": "Parte della rete di trasmissione elettrica strategica ai sensi del decreto del 6 marzo 2009 del Consiglio federale;\nTrasformazione 66/132 kV; \nProcedura PSE per 3 tratti parziali: Arlesheim - Laufen (escl.); Laufen (escl.) - Soyhières; Bellerive - Delémont. In seguito al cosiddetto \"check PSE\" l'UFE ha deciso in data 27.07.2010 di rinunciare ad una procedura PSE.\nAltri tratti: Muttenz - Arlesheim, settore stazione Laufen e Soyhières - Bellerive già costruiti",
+        "description_rm": null,
+        "type_id": "mt1",
+        "type_name": null,
+        "type_name_de": "Start- oder Endpunkt für eine Übertragungsleitung",
+        "type_name_en": null,
+        "type_name_fr": "Point de départ ou d'arrivée d'une ligne de transport d'électricité",
+        "type_name_it": "Punto di partenza o arrivo di un elettrodotto",
+        "type_name_rm": null,
+        "coord_id": 3,
+        "coord_name": null,
+        "coord_name_de": "Vororientierung",
+        "coord_name_en": null,
+        "coord_name_fr": "Information préalable",
+        "coord_name_it": "Informazione preliminare",
+        "coord_name_rm": null,
+        "status_id": 1,
+        "status_name": null,
+        "status_name_de": "in Kraft",
+        "status_name_en": null,
+        "status_name_fr": "en vigueur",
+        "status_name_it": "in vigore",
+        "status_name_rm": null,
+        "symbolori": 160.0,
+        "modinfo_validfrom": "2001-04-12T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2001-04-12T00:00:00",
+        "facility_name": null,
+        "facility_name_de": "Nr. 815 / 132 kV Leitungszug Muttenz - Delémont",
+        "facility_name_en": null,
+        "facility_name_fr": "N° 815 / 132 kV Ligne Muttenz - Delémont",
+        "facility_name_it": "No 815 / 132 kV Linea Muttenz - Delémont",
+        "facility_name_rm": null
+      },
+      "id": "pm101",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.499781090229915,
+            47.41380972997555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "pm102",
+        "name": null,
+        "name_de": "Nr. 815.40 / 132 kV Leitungszug Laufen - Soyhières",
+        "name_en": null,
+        "name_fr": "N° 815.40 / 132 kV Ligne Laufen - Soyhières",
+        "name_it": "No 815.40 / 132 kV Linea Laufen - Soyhières",
+        "name_rm": null,
+        "description": null,
+        "description_de": "Teil des strategischen Übertragungsnetzes gemäss Bundesratsbeschluss vom 6. März 2009;\nUmbau 66/132 kV; \nSÜL-Verfahren für 3 Teilabschnitte: Arlesheim - Laufen (exkl.); Laufen (exkl.) - Soyhières; Bellerive - Delémont. Aufgrund des SÜL-Checks hat das BFE am 27.07.2010 entschieden, dass kein SÜL-Verfahren durchgeführt wird.\nÜbrige Teile: Muttenz - Arlesheim, Bereich Bahnhof Laufen und Soyhières - Bellerive bereits gebaut",
+        "description_en": null,
+        "description_fr": "Fait partie du réseau stratégique des lignes de transport d'électricité selon décision du Conseil fédéral du 6 mars 2009;\nTransform. 66/132 kV; \nProcédure PSE pour 3 tronçons: Arlesheim - Laufen (excl.); Laufon (excl.) - Soyhières; Bellerive - Delémont. Suite au «contrôle PSE», l'OFEN a décidé qu'une procédure PSE n'était pas nécessaire.\nAutres tronçons: les tronçons Muttenz - Arlesheim, gare de Laufon et Soyhières - Bellerive sont déjà construits",
+        "description_it": "Parte della rete di trasmissione elettrica strategica ai sensi del decreto del 6 marzo 2009 del Consiglio federale;\nTrasformazione 66/132 kV; \nProcedura PSE per 3 tratti parziali: Arlesheim - Laufen (escl.); Laufen (escl.) - Soyhières; Bellerive - Delémont. In seguito al cosiddetto \"check PSE\" l'UFE ha deciso in data 27.07.2010 di rinunciare ad una procedura PSE.\nAltri tratti: Muttenz - Arlesheim, settore stazione Laufen e Soyhières - Bellerive già costruiti",
+        "description_rm": null,
+        "type_id": "mt1",
+        "type_name": null,
+        "type_name_de": "Start- oder Endpunkt für eine Übertragungsleitung",
+        "type_name_en": null,
+        "type_name_fr": "Point de départ ou d'arrivée d'une ligne de transport d'électricité",
+        "type_name_it": "Punto di partenza o arrivo di un elettrodotto",
+        "type_name_rm": null,
+        "coord_id": 3,
+        "coord_name": null,
+        "coord_name_de": "Vororientierung",
+        "coord_name_en": null,
+        "coord_name_fr": "Information préalable",
+        "coord_name_it": "Informazione preliminare",
+        "coord_name_rm": null,
+        "status_id": 1,
+        "status_name": null,
+        "status_name_de": "in Kraft",
+        "status_name_en": null,
+        "status_name_fr": "en vigueur",
+        "status_name_it": "in vigore",
+        "status_name_rm": null,
+        "symbolori": 340.0,
+        "modinfo_validfrom": "2001-04-12T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2001-04-12T00:00:00",
+        "facility_name": null,
+        "facility_name_de": "Nr. 815 / 132 kV Leitungszug Muttenz - Delémont",
+        "facility_name_en": null,
+        "facility_name_fr": "N° 815 / 132 kV Ligne Muttenz - Delémont",
+        "facility_name_it": "No 815 / 132 kV Linea Muttenz - Delémont",
+        "facility_name_rm": null
+      },
+      "id": "pm102",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            7.390290168663348,
+            47.39285655431551
+          ]
+        ]
+      }
+    }
+  ],
+  "numberReturned": 5,
+  "numberMatched": 116,
+  "links": [
+    {
+      "type": "application/geo+json",
+      "rel": "self",
+      "title": "This document as GeoJSON",
+      "href": "http://localhost:5000/collections/uebertragungsleitungen_punkte/items?f=json&limit=5"
+    },
+    {
+      "rel": "alternate",
+      "type": "application/ld+json",
+      "title": "This document as RDF (JSON-LD)",
+      "href": "http://localhost:5000/collections/uebertragungsleitungen_punkte/items?f=jsonld&limit=5"
+    },
+    {
+      "type": "text/html",
+      "rel": "alternate",
+      "title": "This document as HTML",
+      "href": "http://localhost:5000/collections/uebertragungsleitungen_punkte/items?f=html&limit=5"
+    },
+    {
+      "type": "text/csv; charset=utf-8",
+      "rel": "alternate",
+      "title": "This document as CSV",
+      "href": "http://localhost:5000/collections/uebertragungsleitungen_punkte/items?f=csv&limit=5"
+    },
+    {
+      "type": "application/geo+json",
+      "rel": "alternate",
+      "title": "This document as jsonfg",
+      "href": "http://localhost:5000/collections/uebertragungsleitungen_punkte/items?f=jsonfg&limit=5"
+    },
+    {
+      "type": "application/geo+json",
+      "rel": "next",
+      "title": "Items (next)",
+      "href": "http://localhost:5000/collections/uebertragungsleitungen_punkte/items?f=json&offset=5&limit=5"
+    },
+    {
+      "type": "application/json",
+      "title": "Electricity Transmission Lines sectoral plan (points)",
+      "rel": "collection",
+      "href": "http://localhost:5000/collections/uebertragungsleitungen_punkte"
+    }
+  ],
+  "timeStamp": "2026-11-19T08:16:28.217574Z"
+}

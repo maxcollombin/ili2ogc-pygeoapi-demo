@@ -1,0 +1,50 @@
+{
+  "type": "object",
+  "title": "Richtplanung erneuerbare Energien",
+  "properties": {
+    "geometry": {
+      "format": "geometry-any",
+      "x-ogc-role": "primary-geometry"
+    },
+    "objektbezeichnung": {
+      "title": "objektbezeichnung",
+      "type": "string"
+    },
+    "beschrieb": {
+      "title": "beschrieb",
+      "type": "string"
+    },
+    "objektart": {
+      "title": "objektart",
+      "type": "string"
+    },
+    "energieform": {
+      "title": "energieform",
+      "type": "string"
+    },
+    "genehmigungsdatum": {
+      "title": "genehmigungsdatum",
+      "type": "string",
+      "format": "date"
+    },
+    "beschlussdatumkanton": {
+      "title": "beschlussdatumkanton",
+      "type": "string",
+      "format": "date"
+    },
+    "kanton": {
+      "title": "kanton",
+      "type": "string"
+    },
+    "weblink": {
+      "title": "weblink",
+      "type": "string"
+    },
+    "bemerkungen": {
+      "title": "bemerkungen",
+      "type": "string"
+    }
+  },
+  "$schema": "http://json-schema.org/draft/2019-09/schema",
+  "$id": "http://localhost:5000/collections/richtplanung/queryables?f=json"
+}

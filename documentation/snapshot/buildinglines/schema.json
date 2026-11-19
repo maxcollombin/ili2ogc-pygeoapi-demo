@@ -1,0 +1,36 @@
+{
+  "type": "object",
+  "title": "Building lines for motorways",
+  "properties": {
+    "geometry": {
+      "format": "geometry-any",
+      "x-ogc-role": "primary-geometry"
+    },
+    "status": {
+      "type": "string"
+    },
+    "approvaldate": {
+      "type": "string",
+      "format": "date"
+    },
+    "approvingauthority": {
+      "type": "string"
+    },
+    "planningapprovalname": {
+      "type": "string"
+    },
+    "publicationdatefrom": {
+      "type": "string",
+      "format": "date"
+    },
+    "publicationdateto": {
+      "type": "string",
+      "format": "date"
+    },
+    "weblink": {
+      "type": "string"
+    }
+  },
+  "$schema": "http://json-schema.org/draft/2019-09/schema",
+  "$id": "http://localhost:5000/collections/buildinglines/schema"
+}

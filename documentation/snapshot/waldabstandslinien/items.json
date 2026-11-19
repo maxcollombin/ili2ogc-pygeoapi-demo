@@ -1,0 +1,408 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "186",
+        "publiziertab": "2011-01-01",
+        "publiziertbis": null,
+        "rechtsstatus": "inKraft",
+        "bemerkungen": null,
+        "typ_code": "x",
+        "typ_bezeichnung": "Waldabstandslinie",
+        "typ_abkuerzung": null,
+        "typ_verbindlichkeit": "Nutzungsplanfestlegung"
+      },
+      "id": "186",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.054432345095151,
+            47.11455410167733
+          ],
+          [
+            9.054469458753127,
+            47.11454891045801
+          ],
+          [
+            9.054495190873002,
+            47.114542142898706
+          ],
+          [
+            9.05451929606562,
+            47.11453299607115
+          ],
+          [
+            9.054538676081588,
+            47.114523177950964
+          ],
+          [
+            9.054558497692314,
+            47.11451008778508
+          ],
+          [
+            9.054571490107701,
+            47.114499099937234
+          ],
+          [
+            9.054580985690654,
+            47.11448927686517
+          ],
+          [
+            9.054590677855076,
+            47.11447679697666
+          ],
+          [
+            9.054598413982937,
+            47.11446369682701
+          ],
+          [
+            9.054604079585383,
+            47.11445011297851
+          ],
+          [
+            9.054605794312973,
+            47.1144444838678
+          ],
+          [
+            9.054628341168325,
+            47.11432474347818
+          ],
+          [
+            9.054629830183949,
+            47.11429766021208
+          ],
+          [
+            9.054592295434059,
+            47.11409192781157
+          ],
+          [
+            9.054572683044713,
+            47.114032024135746
+          ],
+          [
+            9.054599887122958,
+            47.113996743032544
+          ],
+          [
+            9.054683372736621,
+            47.11377524665426
+          ],
+          [
+            9.05468786328983,
+            47.113776443048266
+          ],
+          [
+            9.054828055131578,
+            47.113578917150576
+          ],
+          [
+            9.054838827787403,
+            47.1135616357478
+          ],
+          [
+            9.054847194614537,
+            47.113538873153715
+          ],
+          [
+            9.054849621464756,
+            47.113520161691206
+          ],
+          [
+            9.05484891978737,
+            47.11350608259415
+          ],
+          [
+            9.054845136331103,
+            47.11348901492743
+          ],
+          [
+            9.054877972901036,
+            47.11343470729151
+          ],
+          [
+            9.055015431063753,
+            47.113205173024554
+          ],
+          [
+            9.05502368918172,
+            47.113186235577594
+          ],
+          [
+            9.055027694251264,
+            47.113169166313064
+          ],
+          [
+            9.055028621300865,
+            47.113151852450656
+          ],
+          [
+            9.055031173469514,
+            47.11306307224065
+          ],
+          [
+            9.055054511084874,
+            47.11301935243457
+          ],
+          [
+            9.055081437380291,
+            47.11298668417358
+          ],
+          [
+            9.055237413209511,
+            47.11290264604796
+          ],
+          [
+            9.055359038282687,
+            47.112836715740606
+          ],
+          [
+            9.055384616519818,
+            47.112820953342954
+          ],
+          [
+            9.055403896967706,
+            47.11280437087805
+          ],
+          [
+            9.055419128151845,
+            47.11278592907014
+          ],
+          [
+            9.055428982017453,
+            47.11276834564454
+          ],
+          [
+            9.055435658909444,
+            47.112747676038516
+          ],
+          [
+            9.05543754298196,
+            47.11272889122314
+          ],
+          [
+            9.055435592357032,
+            47.112710115381724
+          ],
+          [
+            9.055429831072132,
+            47.112691708047365
+          ],
+          [
+            9.05542174520526,
+            47.112676185403735
+          ],
+          [
+            9.055410955072904,
+            47.112661447544134
+          ],
+          [
+            9.055397599194155,
+            47.11264771743856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "188",
+        "publiziertab": "2011-01-01",
+        "publiziertbis": null,
+        "rechtsstatus": "inKraft",
+        "bemerkungen": null,
+        "typ_code": "x",
+        "typ_bezeichnung": "Waldabstandslinie",
+        "typ_abkuerzung": null,
+        "typ_verbindlichkeit": "Nutzungsplanfestlegung"
+      },
+      "id": "188",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.079914924885111,
+            47.094210799376256
+          ],
+          [
+            9.079912936021927,
+            47.094124385728655
+          ],
+          [
+            9.080275900989522,
+            47.09396765514282
+          ],
+          [
+            9.080314919642104,
+            47.09395079510951
+          ],
+          [
+            9.080453107583633,
+            47.093890790027444
+          ],
+          [
+            9.080467126916806,
+            47.09388527247515
+          ],
+          [
+            9.080969916699134,
+            47.09370402167379
+          ],
+          [
+            9.081260428448951,
+            47.093895171880824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "198",
+        "publiziertab": "2011-01-01",
+        "publiziertbis": null,
+        "rechtsstatus": "inKraft",
+        "bemerkungen": null,
+        "typ_code": "x",
+        "typ_bezeichnung": "Waldabstandslinie",
+        "typ_abkuerzung": null,
+        "typ_verbindlichkeit": "Nutzungsplanfestlegung"
+      },
+      "id": "198",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.173126036312425,
+            47.11560808842196
+          ],
+          [
+            9.172638157575959,
+            47.11527664035553
+          ],
+          [
+            9.172614701247774,
+            47.11512778692062
+          ],
+          [
+            9.172531742107624,
+            47.11506327023345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "200",
+        "publiziertab": "2011-01-01",
+        "publiziertbis": null,
+        "rechtsstatus": "inKraft",
+        "bemerkungen": null,
+        "typ_code": "x",
+        "typ_bezeichnung": "Waldabstandslinie",
+        "typ_abkuerzung": null,
+        "typ_verbindlichkeit": "Nutzungsplanfestlegung"
+      },
+      "id": "200",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.174650582527137,
+            47.11589616580634
+          ],
+          [
+            9.17484228204717,
+            47.115722585871744
+          ],
+          [
+            9.17488700266543,
+            47.11539381378578
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "201",
+        "publiziertab": "2011-01-01",
+        "publiziertbis": null,
+        "rechtsstatus": "inKraft",
+        "bemerkungen": null,
+        "typ_code": "x",
+        "typ_bezeichnung": "Waldabstandslinie",
+        "typ_abkuerzung": null,
+        "typ_verbindlichkeit": "Nutzungsplanfestlegung"
+      },
+      "id": "201",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.178403267161952,
+            47.11639673172936
+          ],
+          [
+            9.178344224801119,
+            47.11613844671289
+          ],
+          [
+            9.17835417532904,
+            47.11599889525243
+          ]
+        ]
+      }
+    }
+  ],
+  "numberReturned": 5,
+  "numberMatched": 5,
+  "links": [
+    {
+      "type": "application/geo+json",
+      "rel": "self",
+      "title": "This document as GeoJSON",
+      "href": "http://localhost:5000/collections/waldabstandslinien/items?f=json&limit=5"
+    },
+    {
+      "rel": "alternate",
+      "type": "application/ld+json",
+      "title": "This document as RDF (JSON-LD)",
+      "href": "http://localhost:5000/collections/waldabstandslinien/items?f=jsonld&limit=5"
+    },
+    {
+      "type": "text/html",
+      "rel": "alternate",
+      "title": "This document as HTML",
+      "href": "http://localhost:5000/collections/waldabstandslinien/items?f=html&limit=5"
+    },
+    {
+      "type": "text/csv; charset=utf-8",
+      "rel": "alternate",
+      "title": "This document as CSV",
+      "href": "http://localhost:5000/collections/waldabstandslinien/items?f=csv&limit=5"
+    },
+    {
+      "type": "application/geo+json",
+      "rel": "alternate",
+      "title": "This document as jsonfg",
+      "href": "http://localhost:5000/collections/waldabstandslinien/items?f=jsonfg&limit=5"
+    },
+    {
+      "type": "application/geo+json",
+      "rel": "next",
+      "title": "Items (next)",
+      "href": "http://localhost:5000/collections/waldabstandslinien/items?f=json&offset=5&limit=5"
+    },
+    {
+      "type": "application/json",
+      "title": "Waldabstandslinien",
+      "rel": "collection",
+      "href": "http://localhost:5000/collections/waldabstandslinien"
+    }
+  ],
+  "timeStamp": "2026-11-19T08:16:26.661356Z"
+}

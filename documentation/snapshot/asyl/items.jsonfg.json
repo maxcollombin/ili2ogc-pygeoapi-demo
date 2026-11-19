@@ -1,0 +1,316 @@
+{
+  "type": "FeatureCollection",
+  "featureType": "OGRGeoJSON",
+  "featureSchema": "http://localhost:5000/collections/asyl/jsonfg/schema",
+  "coordRefSys": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "conformsTo": [
+    "http://www.opengis.net/spec/json-fg-1/1.0/conf/core",
+    "http://www.opengis.net/spec/json-fg-1/1.0/conf/types-schemas"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "ch21jw6500006504",
+        "name": null,
+        "name_de": "Moudon",
+        "name_en": null,
+        "name_fr": "Moudon",
+        "name_it": "Moudon",
+        "name_rm": null,
+        "description": null,
+        "description_de": null,
+        "description_en": null,
+        "description_fr": null,
+        "description_it": null,
+        "description_rm": null,
+        "kind_id": "198-F-01",
+        "kind_name": null,
+        "kind_name_de": "Bundesasylzentrum (BAZ)",
+        "kind_name_en": null,
+        "kind_name_fr": "Centre fédéral pour requérants d‘asile (CF)",
+        "kind_name_it": "Centro federale per richiedenti l’asilo (CF)",
+        "kind_name_rm": null,
+        "status_id": 3,
+        "status_name": null,
+        "status_name_de": "Anpassung/Umnutzung",
+        "status_name_en": null,
+        "status_name_fr": "Modification/changement d'utilisation",
+        "status_name_it": "Modifica/cambio di utilizzazione",
+        "status_name_rm": null,
+        "symbolori": 0.0,
+        "modinfo_validfrom": "2017-12-20T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2017-11-29T00:00:00",
+        "object_name": null,
+        "object_name_de": "Moudon",
+        "object_name_en": null,
+        "object_name_fr": "Moudon",
+        "object_name_it": "Moudon",
+        "object_name_rm": null
+      },
+      "id": "ch21jw6500006504",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            6.786506639331382,
+            46.653940856579155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "ch21jw6500006505",
+        "name": null,
+        "name_de": "Altstätten",
+        "name_en": null,
+        "name_fr": "Altstätten",
+        "name_it": "Altstätten",
+        "name_rm": null,
+        "description": null,
+        "description_de": null,
+        "description_en": null,
+        "description_fr": null,
+        "description_it": null,
+        "description_rm": null,
+        "kind_id": "198-F-01",
+        "kind_name": null,
+        "kind_name_de": "Bundesasylzentrum (BAZ)",
+        "kind_name_en": null,
+        "kind_name_fr": "Centre fédéral pour requérants d‘asile (CF)",
+        "kind_name_it": "Centro federale per richiedenti l’asilo (CF)",
+        "kind_name_rm": null,
+        "status_id": 2,
+        "status_name": null,
+        "status_name_de": "Neubau",
+        "status_name_en": null,
+        "status_name_fr": "Nouvelle installation",
+        "status_name_it": "Nuova installazione",
+        "status_name_rm": null,
+        "symbolori": 0.0,
+        "modinfo_validfrom": "2017-12-20T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2017-11-29T00:00:00",
+        "object_name": null,
+        "object_name_de": "Altstätten",
+        "object_name_en": null,
+        "object_name_fr": "Altstätten",
+        "object_name_it": "Altstätten",
+        "object_name_rm": null
+      },
+      "id": "ch21jw6500006505",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            9.554206725199931,
+            47.3581115622519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "ch21jw6500006506",
+        "name": null,
+        "name_de": "Kreuzlingen",
+        "name_en": null,
+        "name_fr": "Kreuzlingen",
+        "name_it": "Kreuzlingen",
+        "name_rm": null,
+        "description": null,
+        "description_de": null,
+        "description_en": null,
+        "description_fr": null,
+        "description_it": null,
+        "description_rm": null,
+        "kind_id": "198-F-01",
+        "kind_name": null,
+        "kind_name_de": "Bundesasylzentrum (BAZ)",
+        "kind_name_en": null,
+        "kind_name_fr": "Centre fédéral pour requérants d‘asile (CF)",
+        "kind_name_it": "Centro federale per richiedenti l’asilo (CF)",
+        "kind_name_rm": null,
+        "status_id": 1,
+        "status_name": null,
+        "status_name_de": "Bestehende Anlage",
+        "status_name_en": null,
+        "status_name_fr": "Installation existante",
+        "status_name_it": "Installazione esistente",
+        "status_name_rm": null,
+        "symbolori": 0.0,
+        "modinfo_validfrom": "2017-12-20T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2017-11-29T00:00:00",
+        "object_name": null,
+        "object_name_de": "Kreuzlingen",
+        "object_name_en": null,
+        "object_name_fr": "Kreuzlingen",
+        "object_name_it": "Kreuzlingen",
+        "object_name_rm": null
+      },
+      "id": "ch21jw6500006506",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            9.166285476121148,
+            47.65415080856592
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "ch21jw6500006507",
+        "name": null,
+        "name_de": "Grand Saconnex",
+        "name_en": null,
+        "name_fr": "Grand Saconnex",
+        "name_it": "Grand Saconnex",
+        "name_rm": null,
+        "description": null,
+        "description_de": null,
+        "description_en": null,
+        "description_fr": null,
+        "description_it": null,
+        "description_rm": null,
+        "kind_id": "198-F-01",
+        "kind_name": null,
+        "kind_name_de": "Bundesasylzentrum (BAZ)",
+        "kind_name_en": null,
+        "kind_name_fr": "Centre fédéral pour requérants d‘asile (CF)",
+        "kind_name_it": "Centro federale per richiedenti l’asilo (CF)",
+        "kind_name_rm": null,
+        "status_id": 2,
+        "status_name": null,
+        "status_name_de": "Neubau",
+        "status_name_en": null,
+        "status_name_fr": "Nouvelle installation",
+        "status_name_it": "Nuova installazione",
+        "status_name_rm": null,
+        "symbolori": 0.0,
+        "modinfo_validfrom": "2017-12-20T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2017-11-29T00:00:00",
+        "object_name": null,
+        "object_name_de": "Grand Saconnex",
+        "object_name_en": null,
+        "object_name_fr": "Grand Saconnex",
+        "object_name_it": "Grand Saconnex",
+        "object_name_rm": null
+      },
+      "id": "ch21jw6500006507",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            6.127197764672365,
+            46.24652596154371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "ch21jw6500006508",
+        "name": null,
+        "name_de": "Vallorbe",
+        "name_en": null,
+        "name_fr": "Vallorbe",
+        "name_it": "Vallorbe",
+        "name_rm": null,
+        "description": null,
+        "description_de": null,
+        "description_en": null,
+        "description_fr": null,
+        "description_it": null,
+        "description_rm": null,
+        "kind_id": "198-F-01",
+        "kind_name": null,
+        "kind_name_de": "Bundesasylzentrum (BAZ)",
+        "kind_name_en": null,
+        "kind_name_fr": "Centre fédéral pour requérants d‘asile (CF)",
+        "kind_name_it": "Centro federale per richiedenti l’asilo (CF)",
+        "kind_name_rm": null,
+        "status_id": 1,
+        "status_name": null,
+        "status_name_de": "Bestehende Anlage",
+        "status_name_en": null,
+        "status_name_fr": "Installation existante",
+        "status_name_it": "Installazione esistente",
+        "status_name_rm": null,
+        "symbolori": 0.0,
+        "modinfo_validfrom": "2017-12-20T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2017-11-29T00:00:00",
+        "object_name": null,
+        "object_name_de": "Vallorbe",
+        "object_name_en": null,
+        "object_name_fr": "Vallorbe",
+        "object_name_it": "Vallorbe",
+        "object_name_rm": null
+      },
+      "id": "ch21jw6500006508",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            6.367503210451269,
+            46.711061346220866
+          ]
+        ]
+      }
+    }
+  ],
+  "links": [
+    {
+      "type": "application/geo+json",
+      "rel": "alternate",
+      "title": "This document as GeoJSON",
+      "href": "http://localhost:5000/collections/asyl/items?f=json&limit=5"
+    },
+    {
+      "rel": "alternate",
+      "type": "application/ld+json",
+      "title": "This document as RDF (JSON-LD)",
+      "href": "http://localhost:5000/collections/asyl/items?f=jsonld&limit=5"
+    },
+    {
+      "type": "text/html",
+      "rel": "alternate",
+      "title": "This document as HTML",
+      "href": "http://localhost:5000/collections/asyl/items?f=html&limit=5"
+    },
+    {
+      "type": "text/csv; charset=utf-8",
+      "rel": "alternate",
+      "title": "This document as CSV",
+      "href": "http://localhost:5000/collections/asyl/items?f=csv&limit=5"
+    },
+    {
+      "type": "application/geo+json",
+      "rel": "alternate",
+      "title": "This document as jsonfg",
+      "href": "http://localhost:5000/collections/asyl/items?f=jsonfg&limit=5"
+    },
+    {
+      "type": "application/geo+json",
+      "rel": "next",
+      "title": "Items (next)",
+      "href": "http://localhost:5000/collections/asyl/items?f=jsonfg&offset=5&limit=5"
+    },
+    {
+      "type": "application/json",
+      "title": "Sectoral plan for Asylum (SPA)",
+      "rel": "collection",
+      "href": "http://localhost:5000/collections/asyl"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "type": "object",
+  "title": "Waldabstandslinien",
+  "properties": {
+    "geometry": {
+      "format": "geometry-any",
+      "x-ogc-role": "primary-geometry"
+    },
+    "publiziertab": {
+      "type": "string",
+      "format": "date"
+    },
+    "publiziertbis": {
+      "type": "string",
+      "format": "date"
+    },
+    "rechtsstatus": {
+      "type": "string"
+    },
+    "bemerkungen": {
+      "type": "string"
+    },
+    "typ_code": {
+      "type": "string"
+    },
+    "typ_bezeichnung": {
+      "type": "string"
+    },
+    "typ_abkuerzung": {
+      "type": "string"
+    },
+    "typ_verbindlichkeit": {
+      "type": "string"
+    }
+  },
+  "$schema": "http://json-schema.org/draft/2019-09/schema",
+  "$id": "http://localhost:5000/collections/waldabstandslinien/schema"
+}

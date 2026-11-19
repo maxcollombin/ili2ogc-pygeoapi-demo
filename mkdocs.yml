@@ -1,0 +1,58 @@
+site_name: Démonstrateur ili2ogc pygeoapi
+site_description: Documentation du démonstrateur pygeoapi alimenté par des transferts INTERLIS
+docs_dir: documentation
+site_dir: site
+
+theme:
+  name: material
+  language: fr
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - md_in_html
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: fr
+          default: true
+          name: Français
+          build: true
+          site_name: Démonstrateur ili2ogc pygeoapi
+          nav_translations: {}
+        - locale: de
+          name: Deutsch
+          build: true
+          site_name: ili2ogc-pygeoapi-Demonstrator
+          nav_translations:
+            Accueil: Startseite
+            Démarrer: Erste Schritte
+            Explorer la démo: Die Demo erkunden
+            QGIS pas à pas: QGIS Schritt für Schritt
+            Comparer avec d'autres services: Vergleich mit anderen Diensten
+            Exemples de réponses de l'API: Beispielantworten der API
+            Dépannage et limites: Fehlerbehebung und Grenzen
+
+nav:
+  - Accueil: index.md
+  - Démarrer: demarrer.md
+  - Explorer la démo: explorer.md
+  - QGIS pas à pas: qgis.md
+  - Comparer avec d'autres services: comparer.md
+  - Exemples de réponses de l'API: exemples-reponses.md
+  - Dépannage et limites: limites.md

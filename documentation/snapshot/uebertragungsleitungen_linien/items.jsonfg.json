@@ -1,0 +1,1361 @@
+{
+  "type": "FeatureCollection",
+  "featureType": "OGRGeoJSON",
+  "featureSchema": "http://localhost:5000/collections/uebertragungsleitungen_linien/jsonfg/schema",
+  "coordRefSys": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "conformsTo": [
+    "http://www.opengis.net/spec/json-fg-1/1.0/conf/core",
+    "http://www.opengis.net/spec/json-fg-1/1.0/conf/types-schemas"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "pm148",
+        "name": null,
+        "name_de": "Nr. 203 / 2x380 kV Leitungszug Innertkirchen-Ulrichen",
+        "name_en": null,
+        "name_fr": "N° 203 / 2x380 kV Ligne Innertkirchen-Ulrichen",
+        "name_it": "No 203 / 2x380 kV Linea Innertkirchen-Ulrichen",
+        "name_rm": null,
+        "description": null,
+        "description_de": "Abzubrechende 220 kV-Leitungen Innertkirchen-Ulrichen",
+        "description_en": null,
+        "description_fr": "Lignes 220 kV à démonter Innertkirchen-Ulrichen",
+        "description_it": "Linee 220 kV da smantellare Innertkirchen-Ulrichen",
+        "description_rm": null,
+        "type_id": "mt4",
+        "type_name": null,
+        "type_name_de": "Aufhebung bestehender Übertragungsleitung",
+        "type_name_en": null,
+        "type_name_fr": "Suppression d'une ligne de transport d'électricité existante",
+        "type_name_it": "Soppressione di un elettrodotto esistente",
+        "type_name_rm": null,
+        "coord_id": 1,
+        "coord_name": null,
+        "coord_name_de": "Festsetzung",
+        "coord_name_en": null,
+        "coord_name_fr": "Coordination réglée",
+        "coord_name_it": "Dato acquisito",
+        "coord_name_rm": null,
+        "status_id": 1,
+        "status_name": null,
+        "status_name_de": "in Kraft",
+        "status_name_en": null,
+        "status_name_fr": "en vigueur",
+        "status_name_it": "in vigore",
+        "status_name_rm": null,
+        "symbolori": null,
+        "modinfo_validfrom": "2023-02-22T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2023-02-22T00:00:00",
+        "facility_name": null,
+        "facility_name_de": "Nr. 203 / 2x380 kV Leitungszug Innertkirchen-Ulrichen",
+        "facility_name_en": null,
+        "facility_name_fr": "N° 203 / 2x380 kV Ligne Innertkirchen-Ulrichen",
+        "facility_name_it": "No 203 / 2x380 kV Linea Innertkirchen-Ulrichen",
+        "facility_name_rm": null
+      },
+      "id": "pm148",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              8.3204607439449,
+              46.503685775108025
+            ],
+            [
+              8.319975547283741,
+              46.5038341438971
+            ],
+            [
+              8.318973221586699,
+              46.505689063714314
+            ],
+            [
+              8.318228061579303,
+              46.50784951391338
+            ],
+            [
+              8.3213099769268,
+              46.509438375965914
+            ],
+            [
+              8.324964574575944,
+              46.51132246525227
+            ],
+            [
+              8.32756852982256,
+              46.51266246022073
+            ],
+            [
+              8.329982353828948,
+              46.51390575699018
+            ],
+            [
+              8.331661635780899,
+              46.51651589160407
+            ],
+            [
+              8.33314703590522,
+              46.51881964159071
+            ],
+            [
+              8.33511740625855,
+              46.52066213332831
+            ],
+            [
+              8.337267225467501,
+              46.522661539863876
+            ],
+            [
+              8.3391885294625,
+              46.52444739757102
+            ],
+            [
+              8.340346538027587,
+              46.526201397314786
+            ],
+            [
+              8.341741622380752,
+              46.528306471407305
+            ],
+            [
+              8.343324435731411,
+              46.530691411429956
+            ],
+            [
+              8.34483522481732,
+              46.53394741664677
+            ],
+            [
+              8.346363055199404,
+              46.53589745071208
+            ],
+            [
+              8.346503655530276,
+              46.538915190210794
+            ],
+            [
+              8.34632427188494,
+              46.54040576675744
+            ],
+            [
+              8.346070535731588,
+              46.542494461466376
+            ],
+            [
+              8.345887763056561,
+              46.5440087679618
+            ],
+            [
+              8.34561670834575,
+              46.54622655862994
+            ],
+            [
+              8.34535941304034,
+              46.548351172946994
+            ],
+            [
+              8.34520650126272,
+              46.549604404921794
+            ],
+            [
+              8.344973731125428,
+              46.55150453920483
+            ],
+            [
+              8.34523641329116,
+              46.55372004230985
+            ],
+            [
+              8.345432754759555,
+              46.55515171489069
+            ],
+            [
+              8.345707385797063,
+              46.557164789188654
+            ],
+            [
+              8.345968167549822,
+              46.55908512357486
+            ],
+            [
+              8.346110804674812,
+              46.56014970107772
+            ],
+            [
+              8.344439584017591,
+              46.5616257716598
+            ],
+            [
+              8.342576677995341,
+              46.56368580550343
+            ],
+            [
+              8.341511545125847,
+              46.56486854680529
+            ],
+            [
+              8.340144716879113,
+              46.566274751974056
+            ],
+            [
+              8.338374111107933,
+              46.56833039305369
+            ],
+            [
+              8.335539313469923,
+              46.572583765527895
+            ],
+            [
+              8.332950917079751,
+              46.575198159571165
+            ],
+            [
+              8.333100085973149,
+              46.57728649910501
+            ],
+            [
+              8.333412560552372,
+              46.581672568398346
+            ],
+            [
+              8.33391286223617,
+              46.584636521203
+            ],
+            [
+              8.334272253466372,
+              46.58677364633207
+            ],
+            [
+              8.33132464852162,
+              46.58936471382022
+            ],
+            [
+              8.32901161824267,
+              46.591394643461236
+            ],
+            [
+              8.327371987382355,
+              46.59298812147613
+            ],
+            [
+              8.32480169791629,
+              46.595487356711125
+            ],
+            [
+              8.32510973878356,
+              46.59909597360832
+            ],
+            [
+              8.322905556364395,
+              46.60161428769195
+            ],
+            [
+              8.320989575009154,
+              46.60380352372757
+            ],
+            [
+              8.317560840859185,
+              46.607719232402886
+            ],
+            [
+              8.315812300103431,
+              46.609229551041125
+            ],
+            [
+              8.312131632121343,
+              46.6124055777851
+            ],
+            [
+              8.310437701657621,
+              46.6138707444458
+            ],
+            [
+              8.308783115303878,
+              46.616321267690076
+            ],
+            [
+              8.306057387257098,
+              46.619418902135884
+            ],
+            [
+              8.305836015173512,
+              46.62151580462426
+            ],
+            [
+              8.305597149333456,
+              46.62376968085117
+            ],
+            [
+              8.305155715656548,
+              46.62797028036543
+            ],
+            [
+              8.304801626426402,
+              46.63132957741473
+            ],
+            [
+              8.304361132466624,
+              46.63551273964625
+            ],
+            [
+              8.303236576996579,
+              46.63787239983603
+            ],
+            [
+              8.301783509514557,
+              46.64085828673849
+            ],
+            [
+              8.299985956399397,
+              46.6442133770205
+            ],
+            [
+              8.297462030742869,
+              46.64734994621831
+            ],
+            [
+              8.29586299741083,
+              46.64928904865131
+            ],
+            [
+              8.292073097821518,
+              46.65157657881027
+            ],
+            [
+              8.289797805254416,
+              46.65295777053192
+            ],
+            [
+              8.287686297144312,
+              46.654241317597126
+            ],
+            [
+              8.286036674314508,
+              46.65594172575198
+            ],
+            [
+              8.284209062881468,
+              46.6578283520429
+            ],
+            [
+              8.28280020042788,
+              46.659277822926185
+            ],
+            [
+              8.279475948486247,
+              46.66271116096199
+            ],
+            [
+              8.27677713705484,
+              46.66528526102191
+            ],
+            [
+              8.272546915720952,
+              46.66763838586425
+            ],
+            [
+              8.269763297757523,
+              46.6693207530248
+            ],
+            [
+              8.265195886222584,
+              46.67207974622717
+            ],
+            [
+              8.259884182517203,
+              46.67401270173335
+            ],
+            [
+              8.258988724104547,
+              46.67431777122267
+            ],
+            [
+              8.255224345822805,
+              46.67572838373993
+            ],
+            [
+              8.251651655584986,
+              46.67804885657583
+            ],
+            [
+              8.24873382571921,
+              46.68036998139822
+            ],
+            [
+              8.24626167284395,
+              46.68244770317221
+            ],
+            [
+              8.243732683669808,
+              46.684524313399436
+            ],
+            [
+              8.242573576005908,
+              46.685676663269696
+            ],
+            [
+              8.240371168855338,
+              46.69005582692415
+            ],
+            [
+              8.238705288726711,
+              46.69351944813987
+            ],
+            [
+              8.237852594663272,
+              46.695381485146
+            ],
+            [
+              8.236938053429832,
+              46.69737532108391
+            ],
+            [
+              8.235952240265648,
+              46.69952145085366
+            ],
+            [
+              8.235785290045616,
+              46.70113722541429
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "pm149",
+        "name": null,
+        "name_de": "Nr. 203 / 2x380 kV Leitungszug Innertkirchen-Ulrichen",
+        "name_en": null,
+        "name_fr": "N° 203 / 2x380 kV Ligne Innertkirchen-Ulrichen",
+        "name_it": "No 203 / 2x380 kV Linea Innertkirchen-Ulrichen",
+        "name_rm": null,
+        "description": null,
+        "description_de": "Abzubrechende 220 kV-Leitungen Innertkirchen-Handegg",
+        "description_en": null,
+        "description_fr": "Lignes 220 kV à démonter Innertkirchen-Handegg",
+        "description_it": "Linee 220 kV da smantellare Innertkirchen-Handegg",
+        "description_rm": null,
+        "type_id": "mt4",
+        "type_name": null,
+        "type_name_de": "Aufhebung bestehender Übertragungsleitung",
+        "type_name_en": null,
+        "type_name_fr": "Suppression d'une ligne de transport d'électricité existante",
+        "type_name_it": "Soppressione di un elettrodotto esistente",
+        "type_name_rm": null,
+        "coord_id": 1,
+        "coord_name": null,
+        "coord_name_de": "Festsetzung",
+        "coord_name_en": null,
+        "coord_name_fr": "Coordination réglée",
+        "coord_name_it": "Dato acquisito",
+        "coord_name_rm": null,
+        "status_id": 1,
+        "status_name": null,
+        "status_name_de": "in Kraft",
+        "status_name_en": null,
+        "status_name_fr": "en vigueur",
+        "status_name_it": "in vigore",
+        "status_name_rm": null,
+        "symbolori": null,
+        "modinfo_validfrom": "2023-02-22T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2023-02-22T00:00:00",
+        "facility_name": null,
+        "facility_name_de": "Nr. 203 / 2x380 kV Leitungszug Innertkirchen-Ulrichen",
+        "facility_name_en": null,
+        "facility_name_fr": "N° 203 / 2x380 kV Ligne Innertkirchen-Ulrichen",
+        "facility_name_it": "No 203 / 2x380 kV Linea Innertkirchen-Ulrichen",
+        "facility_name_rm": null
+      },
+      "id": "pm149",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              8.323097044323022,
+              46.59196245866505
+            ],
+            [
+              8.32416992775606,
+              46.59562835681398
+            ],
+            [
+              8.324545840600559,
+              46.59922304275929
+            ],
+            [
+              8.322330445046692,
+              46.60167766810192
+            ],
+            [
+              8.320473164417598,
+              46.60346786540001
+            ],
+            [
+              8.31841251939488,
+              46.605452470391214
+            ],
+            [
+              8.315787705027555,
+              46.607979062510374
+            ],
+            [
+              8.314537686654777,
+              46.60914758126196
+            ],
+            [
+              8.311362051385327,
+              46.6121103048826
+            ],
+            [
+              8.309982470596333,
+              46.613845619559335
+            ],
+            [
+              8.308459128896514,
+              46.61628901738399
+            ],
+            [
+              8.308167360138093,
+              46.61739617066961
+            ],
+            [
+              8.307892235940415,
+              46.619301581887015
+            ],
+            [
+              8.307431065420264,
+              46.621997887970814
+            ],
+            [
+              8.306448666764158,
+              46.623993973120676
+            ],
+            [
+              8.306291957937368,
+              46.62692824502686
+            ],
+            [
+              8.306127892515041,
+              46.63000589494143
+            ],
+            [
+              8.305970554511699,
+              46.63292029808978
+            ],
+            [
+              8.304786802813089,
+              46.63560937015823
+            ],
+            [
+              8.303977696005985,
+              46.63744270860265
+            ],
+            [
+              8.302305012876205,
+              46.64123509165943
+            ],
+            [
+              8.302803871873008,
+              46.64134005426143
+            ],
+            [
+              8.301306863788092,
+              46.64462585826465
+            ],
+            [
+              8.298051459165274,
+              46.64766570716452
+            ],
+            [
+              8.296152374864011,
+              46.64943473916577
+            ],
+            [
+              8.294366716955226,
+              46.65280999938386
+            ],
+            [
+              8.292033861405367,
+              46.65465595058792
+            ],
+            [
+              8.28983549464751,
+              46.656394322476956
+            ],
+            [
+              8.288052811477801,
+              46.65780418218337
+            ],
+            [
+              8.283315703789759,
+              46.66106265614159
+            ],
+            [
+              8.279828894436722,
+              46.66304608207813
+            ],
+            [
+              8.2754086732525,
+              46.66737987894411
+            ],
+            [
+              8.271802699943,
+              46.669961808017895
+            ],
+            [
+              8.270216653282318,
+              46.67099236143334
+            ],
+            [
+              8.265115025339245,
+              46.67268739006695
+            ],
+            [
+              8.260131233563442,
+              46.674419188531985
+            ],
+            [
+              8.259003340675621,
+              46.67510358067543
+            ],
+            [
+              8.257088958665298,
+              46.676293114155676
+            ],
+            [
+              8.25368495313023,
+              46.67894275217226
+            ],
+            [
+              8.249724322354059,
+              46.68202864254391
+            ],
+            [
+              8.24707018458721,
+              46.68455128660382
+            ],
+            [
+              8.245709412000577,
+              46.686697817043665
+            ],
+            [
+              8.24281803774471,
+              46.69193578947837
+            ],
+            [
+              8.241776077534709,
+              46.69346752112274
+            ],
+            [
+              8.239036277621453,
+              46.696754071837866
+            ],
+            [
+              8.236837075887385,
+              46.699288060231616
+            ],
+            [
+              8.236207135533585,
+              46.70128678466133
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "pm153",
+        "name": null,
+        "name_de": "Nr. 701.1 Tinizong-Marmorera",
+        "name_en": null,
+        "name_fr": "N° 701.1 Tinizong-Marmorera",
+        "name_it": "No 701.1 Tinizong-Marmorera",
+        "name_rm": null,
+        "description": null,
+        "description_de": null,
+        "description_en": null,
+        "description_fr": null,
+        "description_it": null,
+        "description_rm": null,
+        "type_id": "mt4",
+        "type_name": null,
+        "type_name_de": "Aufhebung bestehender Übertragungsleitung",
+        "type_name_en": null,
+        "type_name_fr": "Suppression d'une ligne de transport d'électricité existante",
+        "type_name_it": "Soppressione di un elettrodotto esistente",
+        "type_name_rm": null,
+        "coord_id": 1,
+        "coord_name": null,
+        "coord_name_de": "Festsetzung",
+        "coord_name_en": null,
+        "coord_name_fr": "Coordination réglée",
+        "coord_name_it": "Dato acquisito",
+        "coord_name_rm": null,
+        "status_id": 1,
+        "status_name": null,
+        "status_name_de": "in Kraft",
+        "status_name_en": null,
+        "status_name_fr": "en vigueur",
+        "status_name_it": "in vigore",
+        "status_name_rm": null,
+        "symbolori": null,
+        "modinfo_validfrom": "2024-12-20T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2024-12-20T00:00:00",
+        "facility_name": null,
+        "facility_name_de": "Nr. 701.1 Tinizong-Marmorera",
+        "facility_name_en": null,
+        "facility_name_fr": "N° 701.1 Tinizong-Marmorera",
+        "facility_name_it": "No 701.1 Tinizong-Marmorera",
+        "facility_name_rm": null
+      },
+      "id": "pm153",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              9.61165183714226,
+              46.58166147113723
+            ],
+            [
+              9.612330636507382,
+              46.58146157679247
+            ],
+            [
+              9.612660810512855,
+              46.58136434438706
+            ],
+            [
+              9.612892673602582,
+              46.58119042330171
+            ],
+            [
+              9.613319175027959,
+              46.58087049999748
+            ],
+            [
+              9.61412829088004,
+              46.58026355766058
+            ],
+            [
+              9.614305799754108,
+              46.58013040037146
+            ],
+            [
+              9.615120480082792,
+              46.579078979697265
+            ],
+            [
+              9.616246969893465,
+              46.57762606861338
+            ],
+            [
+              9.61749882584912,
+              46.57601270709472
+            ],
+            [
+              9.61841711555504,
+              46.574828921693815
+            ],
+            [
+              9.619192122716983,
+              46.57382978811329
+            ],
+            [
+              9.620162816491304,
+              46.572577905748
+            ],
+            [
+              9.62125394717802,
+              46.57117047704672
+            ],
+            [
+              9.62183404883057,
+              46.57042218063309
+            ],
+            [
+              9.621942605578575,
+              46.569872386108436
+            ],
+            [
+              9.622220152908831,
+              46.568466673279254
+            ],
+            [
+              9.622364537410544,
+              46.56774921747605
+            ],
+            [
+              9.622356782131265,
+              46.56722644931337
+            ],
+            [
+              9.622338528134227,
+              46.56599589040747
+            ],
+            [
+              9.622319919249817,
+              46.56474133046632
+            ],
+            [
+              9.622302922339108,
+              46.563595422367776
+            ],
+            [
+              9.62228117870858,
+              46.562129397978424
+            ],
+            [
+              9.622278426828274,
+              46.561718933082176
+            ],
+            [
+              9.622426965667875,
+              46.560789465462065
+            ],
+            [
+              9.62265568234095,
+              46.55935822300654
+            ],
+            [
+              9.622886204477828,
+              46.55791561428224
+            ],
+            [
+              9.623159975210033,
+              46.556202241327874
+            ],
+            [
+              9.62346613694618,
+              46.55428603496681
+            ],
+            [
+              9.623840654335403,
+              46.55194180464873
+            ],
+            [
+              9.624281664282362,
+              46.54918111824847
+            ],
+            [
+              9.624919194810063,
+              46.545187847981936
+            ],
+            [
+              9.625451910580567,
+              46.54185248836146
+            ],
+            [
+              9.625121908491387,
+              46.539695550447746
+            ],
+            [
+              9.624487293925135,
+              46.535554587981665
+            ],
+            [
+              9.623486498537567,
+              46.53282657607986
+            ],
+            [
+              9.622705953112101,
+              46.53069359404068
+            ],
+            [
+              9.622542081712693,
+              46.52754295252548
+            ],
+            [
+              9.624404591320559,
+              46.52285701712052
+            ],
+            [
+              9.624662639160146,
+              46.52195570337664
+            ],
+            [
+              9.625969238588741,
+              46.51754162740359
+            ],
+            [
+              9.626273428402088,
+              46.51654549103904
+            ],
+            [
+              9.631680869967271,
+              46.514295239729606
+            ],
+            [
+              9.636580275296108,
+              46.50878498730713
+            ],
+            [
+              9.641093382106101,
+              46.50581031383155
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "pm161",
+        "name": null,
+        "name_de": "Nr. 109 / 220 kV Leitungszug All'Acqua-Vallemaggia-Magadino",
+        "name_en": null,
+        "name_fr": "N° 109 / 220 kV Ligne All'Acqua-Vallemaggia-Magadino",
+        "name_it": "No 109 / 220 kV Linea All'Acqua-Vallemaggia-Magadino",
+        "name_rm": null,
+        "description": null,
+        "description_de": "Die Planungen der beiden Objektblätter 106 und 109 sind Teile einer Gesamtplanung für das Gebiet westliches Alto Ticino; in einem weiteren Verfahrensschritt ist ein Planungskorridor festzusetzen.",
+        "description_en": null,
+        "description_fr": "Les planifications des fiches d'objets 106 et 109 s'inscrivent dans une planification globale concernant la région «Haut-Tessin-partie ouest»; le corridor de planification sera défini lors d'une prochaine étape de la procédure.",
+        "description_it": "La pianificazione delle due schede di coordinamento 106 e 109 è parte di una pianificazione globale per il Comparto ovest dell'Alto Ticino; in un'ulteriore fase della procedura occorre definire un corridoio di pianificazione.",
+        "description_rm": null,
+        "type_id": "mt4",
+        "type_name": null,
+        "type_name_de": "Aufhebung bestehender Übertragungsleitung",
+        "type_name_en": null,
+        "type_name_fr": "Suppression d'une ligne de transport d'électricité existante",
+        "type_name_it": "Soppressione di un elettrodotto esistente",
+        "type_name_rm": null,
+        "coord_id": 1,
+        "coord_name": null,
+        "coord_name_de": "Festsetzung",
+        "coord_name_en": null,
+        "coord_name_fr": "Coordination réglée",
+        "coord_name_it": "Dato acquisito",
+        "coord_name_rm": null,
+        "status_id": 1,
+        "status_name": null,
+        "status_name_de": "in Kraft",
+        "status_name_en": null,
+        "status_name_fr": "en vigueur",
+        "status_name_it": "in vigore",
+        "status_name_rm": null,
+        "symbolori": null,
+        "modinfo_validfrom": "2024-12-20T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2024-12-20T00:00:00",
+        "facility_name": null,
+        "facility_name_de": "Nr. 109 / 220 kV Leitungszug All'Acqua-Vallemaggia-Magadino",
+        "facility_name_en": null,
+        "facility_name_fr": "N° 109 / 220 kV Ligne All'Acqua-Vallemaggia-Magadino",
+        "facility_name_it": "No 109 / 220 kV Linea All'Acqua-Vallemaggia-Magadino",
+        "facility_name_rm": null
+      },
+      "id": "pm161",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              8.748370959636784,
+              46.19763432270296
+            ],
+            [
+              8.74770614040085,
+              46.19735772778996
+            ],
+            [
+              8.744659382351209,
+              46.19937859590203
+            ],
+            [
+              8.743726360401062,
+              46.20131920168931
+            ],
+            [
+              8.74277226242353,
+              46.20330232763166
+            ],
+            [
+              8.741358779697231,
+              46.20623541112392
+            ],
+            [
+              8.742210953079631,
+              46.20957240988094
+            ],
+            [
+              8.742667279616963,
+              46.21136561474743
+            ],
+            [
+              8.743066274538272,
+              46.21292826100568
+            ],
+            [
+              8.743925976566432,
+              46.21630025115063
+            ],
+            [
+              8.742000019041177,
+              46.219277945381364
+            ],
+            [
+              8.73921501546852,
+              46.223580832284654
+            ],
+            [
+              8.737526146288808,
+              46.22619404373214
+            ],
+            [
+              8.735739476879122,
+              46.22895319980973
+            ],
+            [
+              8.731980530162115,
+              46.23055632244267
+            ],
+            [
+              8.728249598792498,
+              46.232147302077436
+            ],
+            [
+              8.724564642182447,
+              46.23371784012558
+            ],
+            [
+              8.721001421377634,
+              46.235236492662295
+            ],
+            [
+              8.717318617637806,
+              46.23680586567074
+            ],
+            [
+              8.713303120408575,
+              46.23851741847935
+            ],
+            [
+              8.711287412291485,
+              46.23981317347523
+            ],
+            [
+              8.707925169651446,
+              46.24197601240525
+            ],
+            [
+              8.704730057628348,
+              46.24403251439328
+            ],
+            [
+              8.701846459025987,
+              46.24588841428317
+            ],
+            [
+              8.700254429035757,
+              46.2475831884304
+            ],
+            [
+              8.698319213669576,
+              46.24963893469773
+            ],
+            [
+              8.695781339056273,
+              46.25233562006982
+            ],
+            [
+              8.693275561564198,
+              46.25452267252276
+            ],
+            [
+              8.690482140865605,
+              46.25695666387769
+            ],
+            [
+              8.687783867451568,
+              46.25930856194891
+            ],
+            [
+              8.68499884727848,
+              46.26173422282483
+            ],
+            [
+              8.684269074442579,
+              46.26413629902334
+            ],
+            [
+              8.68300343865191,
+              46.26829503473913
+            ],
+            [
+              8.682508742242636,
+              46.26992169075332
+            ],
+            [
+              8.679234711255374,
+              46.273125398167174
+            ],
+            [
+              8.67540688431097,
+              46.27686946842599
+            ],
+            [
+              8.673530154094292,
+              46.280902514428554
+            ],
+            [
+              8.666521763101123,
+              46.284056565548426
+            ],
+            [
+              8.661515425218232,
+              46.28630777792783
+            ],
+            [
+              8.6580582057162,
+              46.28786463003587
+            ],
+            [
+              8.655422570111895,
+              46.28856415397448
+            ],
+            [
+              8.652659080411464,
+              46.289294676507815
+            ],
+            [
+              8.647607205108514,
+              46.290828713652026
+            ],
+            [
+              8.644452718666967,
+              46.29172874850706
+            ],
+            [
+              8.641192325658043,
+              46.29265680967468
+            ],
+            [
+              8.63809819608556,
+              46.29353713071327
+            ],
+            [
+              8.634241265449159,
+              46.29479249078189
+            ],
+            [
+              8.63066226529261,
+              46.2957676933862
+            ],
+            [
+              8.627148844975327,
+              46.296720500822104
+            ],
+            [
+              8.624274495977124,
+              46.298474405451536
+            ],
+            [
+              8.62046357567033,
+              46.30080210735816
+            ],
+            [
+              8.617363565245345,
+              46.30354332047892
+            ],
+            [
+              8.613672203069962,
+              46.30680789171253
+            ],
+            [
+              8.612348403250106,
+              46.308988914227506
+            ],
+            [
+              8.609956275385002,
+              46.312929923562635
+            ],
+            [
+              8.606259187301639,
+              46.31670351060062
+            ],
+            [
+              8.60597629947816,
+              46.32003697951404
+            ],
+            [
+              8.60656195151882,
+              46.323362393136705
+            ],
+            [
+              8.607155716816044,
+              46.326699416537
+            ],
+            [
+              8.608426935143106,
+              46.32928632073011
+            ],
+            [
+              8.609727926733639,
+              46.33192328532123
+            ],
+            [
+              8.612585640743456,
+              46.33771363008945
+            ],
+            [
+              8.613016278335332,
+              46.33858723873171
+            ],
+            [
+              8.612182085072305,
+              46.34122110420112
+            ],
+            [
+              8.609464044390311,
+              46.34258343015494
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "pm162",
+        "name": null,
+        "name_de": "Nr. 109 / 220 kV Leitungszug All'Acqua-Vallemaggia-Magadino",
+        "name_en": null,
+        "name_fr": "N° 109 / 220 kV Ligne All'Acqua-Vallemaggia-Magadino",
+        "name_it": "No 109 / 220 kV Linea All'Acqua-Vallemaggia-Magadino",
+        "name_rm": null,
+        "description": null,
+        "description_de": "Die Planungen der beiden Objektblätter 106 und 109 sind Teile einer Gesamtplanung für das Gebiet westliches Alto Ticino; in einem weiteren Verfahrensschritt ist ein Planungskorridor festzusetzen.",
+        "description_en": null,
+        "description_fr": "Les planifications des fiches d'objets 106 et 109 s'inscrivent dans une planification globale concernant la région «Haut-Tessin-partie ouest»; le corridor de planification sera défini lors d'une prochaine étape de la procédure.",
+        "description_it": "La pianificazione delle due schede di coordinamento 106 e 109 è parte di una pianificazione globale per il Comparto ovest dell'Alto Ticino; in un'ulteriore fase della procedura occorre definire un corridoio di pianificazione.",
+        "description_rm": null,
+        "type_id": "mt4",
+        "type_name": null,
+        "type_name_de": "Aufhebung bestehender Übertragungsleitung",
+        "type_name_en": null,
+        "type_name_fr": "Suppression d'une ligne de transport d'électricité existante",
+        "type_name_it": "Soppressione di un elettrodotto esistente",
+        "type_name_rm": null,
+        "coord_id": 1,
+        "coord_name": null,
+        "coord_name_de": "Festsetzung",
+        "coord_name_en": null,
+        "coord_name_fr": "Coordination réglée",
+        "coord_name_it": "Dato acquisito",
+        "coord_name_rm": null,
+        "status_id": 1,
+        "status_name": null,
+        "status_name_de": "in Kraft",
+        "status_name_en": null,
+        "status_name_fr": "en vigueur",
+        "status_name_it": "in vigore",
+        "status_name_rm": null,
+        "symbolori": null,
+        "modinfo_validfrom": "2024-12-20T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2024-12-20T00:00:00",
+        "facility_name": null,
+        "facility_name_de": "Nr. 109 / 220 kV Leitungszug All'Acqua-Vallemaggia-Magadino",
+        "facility_name_en": null,
+        "facility_name_fr": "N° 109 / 220 kV Ligne All'Acqua-Vallemaggia-Magadino",
+        "facility_name_it": "No 109 / 220 kV Linea All'Acqua-Vallemaggia-Magadino",
+        "facility_name_rm": null
+      },
+      "id": "pm162",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              8.609464044390311,
+              46.34258343015494
+            ],
+            [
+              8.60859123128208,
+              46.34240891601816
+            ],
+            [
+              8.6077041010107,
+              46.34271586292285
+            ],
+            [
+              8.604754270293906,
+              46.344000395523004
+            ],
+            [
+              8.60090852168936,
+              46.345677300741485
+            ],
+            [
+              8.59867406096457,
+              46.34665114452326
+            ],
+            [
+              8.59603578117015,
+              46.34965150840113
+            ],
+            [
+              8.595343116180379,
+              46.35043588938789
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "links": [
+    {
+      "type": "application/geo+json",
+      "rel": "alternate",
+      "title": "This document as GeoJSON",
+      "href": "http://localhost:5000/collections/uebertragungsleitungen_linien/items?f=json&limit=5"
+    },
+    {
+      "rel": "alternate",
+      "type": "application/ld+json",
+      "title": "This document as RDF (JSON-LD)",
+      "href": "http://localhost:5000/collections/uebertragungsleitungen_linien/items?f=jsonld&limit=5"
+    },
+    {
+      "type": "text/html",
+      "rel": "alternate",
+      "title": "This document as HTML",
+      "href": "http://localhost:5000/collections/uebertragungsleitungen_linien/items?f=html&limit=5"
+    },
+    {
+      "type": "text/csv; charset=utf-8",
+      "rel": "alternate",
+      "title": "This document as CSV",
+      "href": "http://localhost:5000/collections/uebertragungsleitungen_linien/items?f=csv&limit=5"
+    },
+    {
+      "type": "application/geo+json",
+      "rel": "alternate",
+      "title": "This document as jsonfg",
+      "href": "http://localhost:5000/collections/uebertragungsleitungen_linien/items?f=jsonfg&limit=5"
+    },
+    {
+      "type": "application/geo+json",
+      "rel": "next",
+      "title": "Items (next)",
+      "href": "http://localhost:5000/collections/uebertragungsleitungen_linien/items?f=jsonfg&offset=5&limit=5"
+    },
+    {
+      "type": "application/json",
+      "title": "Electricity Transmission Lines sectoral plan (lines)",
+      "rel": "collection",
+      "href": "http://localhost:5000/collections/uebertragungsleitungen_linien"
+    }
+  ]
+}

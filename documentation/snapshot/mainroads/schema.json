@@ -1,0 +1,21 @@
+{
+  "type": "object",
+  "title": "Main roads network",
+  "properties": {
+    "geometry": {
+      "format": "geometry-any",
+      "x-ogc-role": "primary-geometry"
+    },
+    "canton": {
+      "type": "string"
+    },
+    "roadnumber": {
+      "type": "string"
+    },
+    "segmentdescription": {
+      "type": "string"
+    }
+  },
+  "$schema": "http://json-schema.org/draft/2019-09/schema",
+  "$id": "http://localhost:5000/collections/mainroads/schema"
+}

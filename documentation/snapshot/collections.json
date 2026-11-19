@@ -1,0 +1,1437 @@
+{
+  "collections": [
+    {
+      "id": "richtplanung",
+      "links": [
+        {
+          "type": "text/html",
+          "rel": "describedby",
+          "title": "geocat.ch metadata record",
+          "href": "https://www.geocat.ch/geonetwork/srv/eng/catalog.search#/metadata/f5c2c313-00bb-43d6-a3a8-7ccb5a099a96",
+          "hreflang": "en-US"
+        },
+        {
+          "type": "application/json",
+          "rel": "root",
+          "title": "The landing page of this server as JSON",
+          "href": "http://localhost:5000?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "root",
+          "title": "The landing page of this server as HTML",
+          "href": "http://localhost:5000?f=html"
+        },
+        {
+          "type": "application/json",
+          "rel": "self",
+          "title": "This document as JSON",
+          "href": "http://localhost:5000/collections/richtplanung?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "alternate",
+          "title": "This document as RDF (JSON-LD)",
+          "href": "http://localhost:5000/collections/richtplanung?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "alternate",
+          "title": "This document as HTML",
+          "href": "http://localhost:5000/collections/richtplanung?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in JSON",
+          "href": "http://localhost:5000/collections/richtplanung/schema?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in HTML",
+          "href": "http://localhost:5000/collections/richtplanung/schema?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as JSON",
+          "href": "http://localhost:5000/collections/richtplanung/queryables?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as HTML",
+          "href": "http://localhost:5000/collections/richtplanung/queryables?f=html"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as GeoJSON",
+          "href": "http://localhost:5000/collections/richtplanung/items?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "items",
+          "title": "Items as RDF (GeoJSON-LD)",
+          "href": "http://localhost:5000/collections/richtplanung/items?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "items",
+          "title": "Items as HTML",
+          "href": "http://localhost:5000/collections/richtplanung/items?f=html"
+        },
+        {
+          "type": "text/csv; charset=utf-8",
+          "rel": "items",
+          "title": "Items as CSV",
+          "href": "http://localhost:5000/collections/richtplanung/items?f=csv"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as jsonfg",
+          "href": "http://localhost:5000/collections/richtplanung/items?f=jsonfg"
+        },
+        {
+          "type": "image/png",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/map",
+          "title": "Map as png",
+          "href": "http://localhost:5000/collections/richtplanung/map?f=png"
+        }
+      ],
+      "title": "Richtplanung erneuerbare Energien",
+      "description": "Das Energiegesetz des Bundes sieht vor, die Nutzung aller erneuerbarer Energien in der Schweiz auszubauen. Die Kantone sind verpflichtet, insbesondere Gebiete zur Nutzung von Wasser- und Windkraft in ihren Richtplänen zu bezeichnen (Art. 10 des Energiegesetzes, Art. 8b des Raumplanungsgesetzes). Die Daten basieren auf dem Modell \"Übersicht kantonale Richtplanung betreffend erneuerbare Energien\".",
+      "keywords": [
+        "biomass energy",
+        "solar energy",
+        "wind power",
+        "energy",
+        "water power",
+        "biomass",
+        "energy type",
+        "minimum geodata model MGDM",
+        "canton",
+        "Switzerland"
+      ],
+      "extent": {
+        "spatial": {
+          "bbox": [
+            [
+              8.5314,
+              47.6998,
+              8.8726,
+              47.7806
+            ]
+          ]
+        }
+      },
+      "itemType": "feature",
+      "crs": [
+        "http://www.opengis.net/def/crs/EPSG/0/2056",
+        "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+      ],
+      "storageCrs": "http://www.opengis.net/def/crs/EPSG/0/2056"
+    },
+    {
+      "id": "waldabstandslinien",
+      "links": [
+        {
+          "type": "text/html",
+          "rel": "describedby",
+          "title": "geocat.ch metadata record",
+          "href": "https://www.geocat.ch/geonetwork/srv/eng/catalog.search#/metadata/a81f0dc0-a795-4035-822c-4c3bf36e0916",
+          "hreflang": "en-US"
+        },
+        {
+          "type": "application/json",
+          "rel": "root",
+          "title": "The landing page of this server as JSON",
+          "href": "http://localhost:5000?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "root",
+          "title": "The landing page of this server as HTML",
+          "href": "http://localhost:5000?f=html"
+        },
+        {
+          "type": "application/json",
+          "rel": "self",
+          "title": "This document as JSON",
+          "href": "http://localhost:5000/collections/waldabstandslinien?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "alternate",
+          "title": "This document as RDF (JSON-LD)",
+          "href": "http://localhost:5000/collections/waldabstandslinien?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "alternate",
+          "title": "This document as HTML",
+          "href": "http://localhost:5000/collections/waldabstandslinien?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in JSON",
+          "href": "http://localhost:5000/collections/waldabstandslinien/schema?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in HTML",
+          "href": "http://localhost:5000/collections/waldabstandslinien/schema?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as JSON",
+          "href": "http://localhost:5000/collections/waldabstandslinien/queryables?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as HTML",
+          "href": "http://localhost:5000/collections/waldabstandslinien/queryables?f=html"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as GeoJSON",
+          "href": "http://localhost:5000/collections/waldabstandslinien/items?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "items",
+          "title": "Items as RDF (GeoJSON-LD)",
+          "href": "http://localhost:5000/collections/waldabstandslinien/items?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "items",
+          "title": "Items as HTML",
+          "href": "http://localhost:5000/collections/waldabstandslinien/items?f=html"
+        },
+        {
+          "type": "text/csv; charset=utf-8",
+          "rel": "items",
+          "title": "Items as CSV",
+          "href": "http://localhost:5000/collections/waldabstandslinien/items?f=csv"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as jsonfg",
+          "href": "http://localhost:5000/collections/waldabstandslinien/items?f=jsonfg"
+        },
+        {
+          "type": "image/png",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/map",
+          "title": "Map as png",
+          "href": "http://localhost:5000/collections/waldabstandslinien/map?f=png"
+        }
+      ],
+      "title": "Waldabstandslinien",
+      "description": "Bauten und Anlagen in Waldesnähe sind nur zulässig, wenn sie die Erhaltung, Pflege und Nutzung des Waldes nicht beeinträchtigen. Die Kantone legen aufgrund rechtskräftiger Waldabstandslinien einen angemessenen Mindestabstand fest, der zwischen den Bauten und Anlagen und dem Waldrand einzuhalten ist. Dieser Abstand wird unter Berücksichtigung der Lage und der voraussichtlichen Höhe der Bestockung ermittelt. Die Daten basieren auf dem MGDM Waldabstandslinien (ID 159.1, Version 1.2).",
+      "keywords": [
+        "wood",
+        "federal law",
+        "forest clearance",
+        "land use planning",
+        "canton",
+        "minimum geodata model MGDM",
+        "official geodata",
+        "Switzerland"
+      ],
+      "extent": {
+        "spatial": {
+          "bbox": [
+            [
+              9.0544,
+              47.0937,
+              9.1785,
+              47.1164
+            ]
+          ]
+        }
+      },
+      "itemType": "feature",
+      "crs": [
+        "http://www.opengis.net/def/crs/EPSG/0/2056",
+        "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+      ],
+      "storageCrs": "http://www.opengis.net/def/crs/EPSG/0/2056"
+    },
+    {
+      "id": "mainroads",
+      "links": [
+        {
+          "type": "text/html",
+          "rel": "describedby",
+          "title": "geocat.ch metadata record",
+          "href": "https://www.geocat.ch/geonetwork/srv/eng/catalog.search#/metadata/c1333de6-fb91-4b0b-be95-8eab89b05358",
+          "hreflang": "en-US"
+        },
+        {
+          "type": "application/json",
+          "rel": "root",
+          "title": "The landing page of this server as JSON",
+          "href": "http://localhost:5000?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "root",
+          "title": "The landing page of this server as HTML",
+          "href": "http://localhost:5000?f=html"
+        },
+        {
+          "type": "application/json",
+          "rel": "self",
+          "title": "This document as JSON",
+          "href": "http://localhost:5000/collections/mainroads?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "alternate",
+          "title": "This document as RDF (JSON-LD)",
+          "href": "http://localhost:5000/collections/mainroads?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "alternate",
+          "title": "This document as HTML",
+          "href": "http://localhost:5000/collections/mainroads?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in JSON",
+          "href": "http://localhost:5000/collections/mainroads/schema?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in HTML",
+          "href": "http://localhost:5000/collections/mainroads/schema?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as JSON",
+          "href": "http://localhost:5000/collections/mainroads/queryables?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as HTML",
+          "href": "http://localhost:5000/collections/mainroads/queryables?f=html"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as GeoJSON",
+          "href": "http://localhost:5000/collections/mainroads/items?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "items",
+          "title": "Items as RDF (GeoJSON-LD)",
+          "href": "http://localhost:5000/collections/mainroads/items?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "items",
+          "title": "Items as HTML",
+          "href": "http://localhost:5000/collections/mainroads/items?f=html"
+        },
+        {
+          "type": "text/csv; charset=utf-8",
+          "rel": "items",
+          "title": "Items as CSV",
+          "href": "http://localhost:5000/collections/mainroads/items?f=csv"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as jsonfg",
+          "href": "http://localhost:5000/collections/mainroads/items?f=jsonfg"
+        },
+        {
+          "type": "image/png",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/map",
+          "title": "Map as png",
+          "href": "http://localhost:5000/collections/mainroads/map?f=png"
+        }
+      ],
+      "title": "Main roads network",
+      "description": "Dieser Datensatz umfasst das Netz der schweizerischen Hauptstrassen, das in der Verordnung über die Verwendung der zweckgebundenen Mineralölsteuer im Strassenverkehr (MinVV) festgelegt ist. Der Bund, der den Kantonen Beiträge für das Hauptstrassennetz gewährt, definiert eindeutig, welche Infrastruktur zum Hauptstrassennetz gehört. Die Achsen der Hauptstrassen können für die Beschreibung und die Referenzierung von Sachverhalten entlang der Strassen verwendet werden. Im Gegensatz zum schweizerischen Hauptstrassennetz gem. MinVV wird das Hauptstrassennetz gemäss Durchgangsstrassenverordnung auf nationaler Ebene nicht kartografisch dargestellt. Die Durchgangsstrassenverordnung hält lediglich die Strassenverbindungen fest, die dem Durchgangsverkehr offenstehen müssen. Welcher Streckenverlauf resp. welche Strasseninfrastruktur genau betroffen ist, wird hingegen nicht angegeben.",
+      "keywords": [
+        "main road",
+        "geodata",
+        "axis",
+        "official geodata",
+        "Switzerland"
+      ],
+      "extent": {
+        "spatial": {
+          "bbox": [
+            [
+              6.0501,
+              45.8688,
+              10.4873,
+              47.802
+            ]
+          ]
+        }
+      },
+      "itemType": "feature",
+      "crs": [
+        "http://www.opengis.net/def/crs/EPSG/0/2056",
+        "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+      ],
+      "storageCrs": "http://www.opengis.net/def/crs/EPSG/0/2056"
+    },
+    {
+      "id": "buildinglines",
+      "links": [
+        {
+          "type": "text/html",
+          "rel": "describedby",
+          "title": "geocat.ch metadata record",
+          "href": "https://www.geocat.ch/geonetwork/srv/eng/catalog.search#/metadata/fce3b347-cc58-4b29-bb87-a35eed4487ea",
+          "hreflang": "en-US"
+        },
+        {
+          "type": "application/json",
+          "rel": "root",
+          "title": "The landing page of this server as JSON",
+          "href": "http://localhost:5000?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "root",
+          "title": "The landing page of this server as HTML",
+          "href": "http://localhost:5000?f=html"
+        },
+        {
+          "type": "application/json",
+          "rel": "self",
+          "title": "This document as JSON",
+          "href": "http://localhost:5000/collections/buildinglines?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "alternate",
+          "title": "This document as RDF (JSON-LD)",
+          "href": "http://localhost:5000/collections/buildinglines?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "alternate",
+          "title": "This document as HTML",
+          "href": "http://localhost:5000/collections/buildinglines?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in JSON",
+          "href": "http://localhost:5000/collections/buildinglines/schema?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in HTML",
+          "href": "http://localhost:5000/collections/buildinglines/schema?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as JSON",
+          "href": "http://localhost:5000/collections/buildinglines/queryables?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as HTML",
+          "href": "http://localhost:5000/collections/buildinglines/queryables?f=html"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as GeoJSON",
+          "href": "http://localhost:5000/collections/buildinglines/items?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "items",
+          "title": "Items as RDF (GeoJSON-LD)",
+          "href": "http://localhost:5000/collections/buildinglines/items?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "items",
+          "title": "Items as HTML",
+          "href": "http://localhost:5000/collections/buildinglines/items?f=html"
+        },
+        {
+          "type": "text/csv; charset=utf-8",
+          "rel": "items",
+          "title": "Items as CSV",
+          "href": "http://localhost:5000/collections/buildinglines/items?f=csv"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as jsonfg",
+          "href": "http://localhost:5000/collections/buildinglines/items?f=jsonfg"
+        },
+        {
+          "type": "image/png",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/map",
+          "title": "Map as png",
+          "href": "http://localhost:5000/collections/buildinglines/map?f=png"
+        }
+      ],
+      "title": "Building lines for motorways",
+      "description": "The dataset of building lines for motorways contains information about the location and authorisation status of building lines along motorways. Building lines meet the needs of road safety and living conditions, and document the requirements of any future extension to the road.",
+      "keywords": [
+        "building line",
+        "motorway",
+        "official geodata",
+        "Switzerland"
+      ],
+      "extent": {
+        "spatial": {
+          "bbox": [
+            [
+              7.3723,
+              46.7772,
+              9.1867,
+              47.4499
+            ]
+          ]
+        }
+      },
+      "itemType": "feature",
+      "crs": [
+        "http://www.opengis.net/def/crs/EPSG/0/2056",
+        "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+      ],
+      "storageCrs": "http://www.opengis.net/def/crs/EPSG/0/2056"
+    },
+    {
+      "id": "uebertragungsleitungen",
+      "links": [
+        {
+          "type": "text/html",
+          "rel": "describedby",
+          "title": "geocat.ch metadata record",
+          "href": "https://www.geocat.ch/geonetwork/srv/eng/catalog.search#/metadata/e1134feb-55d7-4b44-8e13-125e983b259b",
+          "hreflang": "en-US"
+        },
+        {
+          "type": "application/json",
+          "rel": "root",
+          "title": "The landing page of this server as JSON",
+          "href": "http://localhost:5000?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "root",
+          "title": "The landing page of this server as HTML",
+          "href": "http://localhost:5000?f=html"
+        },
+        {
+          "type": "application/json",
+          "rel": "self",
+          "title": "This document as JSON",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "alternate",
+          "title": "This document as RDF (JSON-LD)",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "alternate",
+          "title": "This document as HTML",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in JSON",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen/schema?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in HTML",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen/schema?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as JSON",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen/queryables?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as HTML",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen/queryables?f=html"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as GeoJSON",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen/items?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "items",
+          "title": "Items as RDF (GeoJSON-LD)",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen/items?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "items",
+          "title": "Items as HTML",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen/items?f=html"
+        },
+        {
+          "type": "text/csv; charset=utf-8",
+          "rel": "items",
+          "title": "Items as CSV",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen/items?f=csv"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as jsonfg",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen/items?f=jsonfg"
+        },
+        {
+          "type": "image/png",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/map",
+          "title": "Map as png",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen/map?f=png"
+        }
+      ],
+      "title": "Electricity Transmission Lines sectoral plan",
+      "description": "Sectoral planning is the federal government’s overlying planning and coordination tool for implementing its spatial planning duties. Projects concerning the construction and expansion of high-voltage power lines at the 220/380 kV level which have a significant spatial and environmental impact normally have to be specified in the Transmission Lines sectoral plan.",
+      "keywords": [
+        "official geodata",
+        "Switzerland"
+      ],
+      "extent": {
+        "spatial": {
+          "bbox": [
+            [
+              6.9583,
+              45.8361,
+              9.6413,
+              47.6669
+            ]
+          ]
+        }
+      },
+      "itemType": "feature",
+      "crs": [
+        "http://www.opengis.net/def/crs/EPSG/0/2056",
+        "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+      ],
+      "storageCrs": "http://www.opengis.net/def/crs/EPSG/0/2056"
+    },
+    {
+      "id": "uebertragungsleitungen_linien",
+      "links": [
+        {
+          "type": "text/html",
+          "rel": "describedby",
+          "title": "geocat.ch metadata record",
+          "href": "https://www.geocat.ch/geonetwork/srv/eng/catalog.search#/metadata/e1134feb-55d7-4b44-8e13-125e983b259b",
+          "hreflang": "en-US"
+        },
+        {
+          "type": "application/json",
+          "rel": "root",
+          "title": "The landing page of this server as JSON",
+          "href": "http://localhost:5000?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "root",
+          "title": "The landing page of this server as HTML",
+          "href": "http://localhost:5000?f=html"
+        },
+        {
+          "type": "application/json",
+          "rel": "self",
+          "title": "This document as JSON",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_linien?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "alternate",
+          "title": "This document as RDF (JSON-LD)",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_linien?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "alternate",
+          "title": "This document as HTML",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_linien?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in JSON",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_linien/schema?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in HTML",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_linien/schema?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as JSON",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_linien/queryables?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as HTML",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_linien/queryables?f=html"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as GeoJSON",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_linien/items?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "items",
+          "title": "Items as RDF (GeoJSON-LD)",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_linien/items?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "items",
+          "title": "Items as HTML",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_linien/items?f=html"
+        },
+        {
+          "type": "text/csv; charset=utf-8",
+          "rel": "items",
+          "title": "Items as CSV",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_linien/items?f=csv"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as jsonfg",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_linien/items?f=jsonfg"
+        },
+        {
+          "type": "image/png",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/map",
+          "title": "Map as png",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_linien/map?f=png"
+        }
+      ],
+      "title": "Electricity Transmission Lines sectoral plan (lines)",
+      "description": "Sectoral planning is the federal government’s overlying planning and coordination tool for implementing its spatial planning duties. Projects concerning the construction and expansion of high-voltage power lines at the 220/380 kV level which have a significant spatial and environmental impact normally have to be specified in the Transmission Lines sectoral plan.",
+      "keywords": [
+        "official geodata",
+        "Switzerland"
+      ],
+      "extent": {
+        "spatial": {
+          "bbox": [
+            [
+              8.2358,
+              46.1623,
+              9.6411,
+              46.7013
+            ]
+          ]
+        }
+      },
+      "itemType": "feature",
+      "crs": [
+        "http://www.opengis.net/def/crs/EPSG/0/2056",
+        "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+      ],
+      "storageCrs": "http://www.opengis.net/def/crs/EPSG/0/2056"
+    },
+    {
+      "id": "uebertragungsleitungen_punkte",
+      "links": [
+        {
+          "type": "text/html",
+          "rel": "describedby",
+          "title": "geocat.ch metadata record",
+          "href": "https://www.geocat.ch/geonetwork/srv/eng/catalog.search#/metadata/e1134feb-55d7-4b44-8e13-125e983b259b",
+          "hreflang": "en-US"
+        },
+        {
+          "type": "application/json",
+          "rel": "root",
+          "title": "The landing page of this server as JSON",
+          "href": "http://localhost:5000?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "root",
+          "title": "The landing page of this server as HTML",
+          "href": "http://localhost:5000?f=html"
+        },
+        {
+          "type": "application/json",
+          "rel": "self",
+          "title": "This document as JSON",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_punkte?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "alternate",
+          "title": "This document as RDF (JSON-LD)",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_punkte?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "alternate",
+          "title": "This document as HTML",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_punkte?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in JSON",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_punkte/schema?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in HTML",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_punkte/schema?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as JSON",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_punkte/queryables?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as HTML",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_punkte/queryables?f=html"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as GeoJSON",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_punkte/items?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "items",
+          "title": "Items as RDF (GeoJSON-LD)",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_punkte/items?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "items",
+          "title": "Items as HTML",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_punkte/items?f=html"
+        },
+        {
+          "type": "text/csv; charset=utf-8",
+          "rel": "items",
+          "title": "Items as CSV",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_punkte/items?f=csv"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as jsonfg",
+          "href": "http://localhost:5000/collections/uebertragungsleitungen_punkte/items?f=jsonfg"
+        }
+      ],
+      "title": "Electricity Transmission Lines sectoral plan (points)",
+      "description": "Sectoral planning is the federal government’s overlying planning and coordination tool for implementing its spatial planning duties. Projects concerning the construction and expansion of high-voltage power lines at the 220/380 kV level which have a significant spatial and environmental impact normally have to be specified in the Transmission Lines sectoral plan.",
+      "keywords": [
+        "official geodata",
+        "Switzerland"
+      ],
+      "extent": {
+        "spatial": {
+          "bbox": [
+            [
+              5.9803,
+              45.8321,
+              9.9063,
+              47.6603
+            ]
+          ]
+        }
+      },
+      "itemType": "feature",
+      "crs": [
+        "http://www.opengis.net/def/crs/EPSG/0/2056",
+        "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+      ],
+      "storageCrs": "http://www.opengis.net/def/crs/EPSG/0/2056"
+    },
+    {
+      "id": "asyl",
+      "links": [
+        {
+          "type": "text/html",
+          "rel": "describedby",
+          "title": "geocat.ch metadata record",
+          "href": "https://www.geocat.ch/geonetwork/srv/eng/catalog.search#/metadata/23a9027d-37a1-4ba4-b529-54c658540914",
+          "hreflang": "en-US"
+        },
+        {
+          "type": "application/json",
+          "rel": "root",
+          "title": "The landing page of this server as JSON",
+          "href": "http://localhost:5000?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "root",
+          "title": "The landing page of this server as HTML",
+          "href": "http://localhost:5000?f=html"
+        },
+        {
+          "type": "application/json",
+          "rel": "self",
+          "title": "This document as JSON",
+          "href": "http://localhost:5000/collections/asyl?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "alternate",
+          "title": "This document as RDF (JSON-LD)",
+          "href": "http://localhost:5000/collections/asyl?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "alternate",
+          "title": "This document as HTML",
+          "href": "http://localhost:5000/collections/asyl?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in JSON",
+          "href": "http://localhost:5000/collections/asyl/schema?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in HTML",
+          "href": "http://localhost:5000/collections/asyl/schema?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as JSON",
+          "href": "http://localhost:5000/collections/asyl/queryables?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as HTML",
+          "href": "http://localhost:5000/collections/asyl/queryables?f=html"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as GeoJSON",
+          "href": "http://localhost:5000/collections/asyl/items?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "items",
+          "title": "Items as RDF (GeoJSON-LD)",
+          "href": "http://localhost:5000/collections/asyl/items?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "items",
+          "title": "Items as HTML",
+          "href": "http://localhost:5000/collections/asyl/items?f=html"
+        },
+        {
+          "type": "text/csv; charset=utf-8",
+          "rel": "items",
+          "title": "Items as CSV",
+          "href": "http://localhost:5000/collections/asyl/items?f=csv"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as jsonfg",
+          "href": "http://localhost:5000/collections/asyl/items?f=jsonfg"
+        },
+        {
+          "type": "image/png",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/map",
+          "title": "Map as png",
+          "href": "http://localhost:5000/collections/asyl/map?f=png"
+        }
+      ],
+      "title": "Sectoral plan for Asylum (SPA)",
+      "description": "With the SPA, the Swiss State Secretariat for Migration (SEM) has ensured a rough plan for and basic coordination of federal government asylum centres. The SPA contains an overview of the government asylum centres across Switzerland and some basic principles for coordination with strategic goals and for cooperation between the relevant authorities. A sectoral plan entry forms the basis for planning approval for a project with significant repercussions for space and the environment.",
+      "keywords": [
+        "federal authority",
+        "sectoral plan",
+        "official geodata",
+        "Switzerland"
+      ],
+      "extent": {
+        "spatial": {
+          "bbox": [
+            [
+              6.1272,
+              45.8314,
+              9.5608,
+              47.6542
+            ]
+          ]
+        }
+      },
+      "itemType": "feature",
+      "crs": [
+        "http://www.opengis.net/def/crs/EPSG/0/2056",
+        "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+      ],
+      "storageCrs": "http://www.opengis.net/def/crs/EPSG/0/2056"
+    },
+    {
+      "id": "richtplanung_punkte",
+      "links": [
+        {
+          "type": "text/html",
+          "rel": "describedby",
+          "title": "geocat.ch metadata record",
+          "href": "https://www.geocat.ch/geonetwork/srv/eng/catalog.search#/metadata/f5c2c313-00bb-43d6-a3a8-7ccb5a099a96",
+          "hreflang": "en-US"
+        },
+        {
+          "type": "application/json",
+          "rel": "root",
+          "title": "The landing page of this server as JSON",
+          "href": "http://localhost:5000?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "root",
+          "title": "The landing page of this server as HTML",
+          "href": "http://localhost:5000?f=html"
+        },
+        {
+          "type": "application/json",
+          "rel": "self",
+          "title": "This document as JSON",
+          "href": "http://localhost:5000/collections/richtplanung_punkte?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "alternate",
+          "title": "This document as RDF (JSON-LD)",
+          "href": "http://localhost:5000/collections/richtplanung_punkte?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "alternate",
+          "title": "This document as HTML",
+          "href": "http://localhost:5000/collections/richtplanung_punkte?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in JSON",
+          "href": "http://localhost:5000/collections/richtplanung_punkte/schema?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in HTML",
+          "href": "http://localhost:5000/collections/richtplanung_punkte/schema?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as JSON",
+          "href": "http://localhost:5000/collections/richtplanung_punkte/queryables?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as HTML",
+          "href": "http://localhost:5000/collections/richtplanung_punkte/queryables?f=html"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as GeoJSON",
+          "href": "http://localhost:5000/collections/richtplanung_punkte/items?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "items",
+          "title": "Items as RDF (GeoJSON-LD)",
+          "href": "http://localhost:5000/collections/richtplanung_punkte/items?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "items",
+          "title": "Items as HTML",
+          "href": "http://localhost:5000/collections/richtplanung_punkte/items?f=html"
+        },
+        {
+          "type": "text/csv; charset=utf-8",
+          "rel": "items",
+          "title": "Items as CSV",
+          "href": "http://localhost:5000/collections/richtplanung_punkte/items?f=csv"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as jsonfg",
+          "href": "http://localhost:5000/collections/richtplanung_punkte/items?f=jsonfg"
+        },
+        {
+          "type": "image/png",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/map",
+          "title": "Map as png",
+          "href": "http://localhost:5000/collections/richtplanung_punkte/map?f=png"
+        }
+      ],
+      "title": "Richtplanung erneuerbare Energien (Punkte)",
+      "description": "Das Energiegesetz des Bundes sieht vor, die Nutzung aller erneuerbarer Energien in der Schweiz auszubauen. Die Kantone sind verpflichtet, insbesondere Gebiete zur Nutzung von Wasser- und Windkraft in ihren Richtplänen zu bezeichnen (Art. 10 des Energiegesetzes, Art. 8b des Raumplanungsgesetzes). Die Daten basieren auf dem Modell \"Übersicht kantonale Richtplanung betreffend erneuerbare Energien\".",
+      "keywords": [
+        "biomass energy",
+        "solar energy",
+        "wind power",
+        "energy",
+        "water power",
+        "biomass",
+        "energy type",
+        "minimum geodata model MGDM",
+        "canton",
+        "Switzerland"
+      ],
+      "extent": {
+        "spatial": {
+          "bbox": [
+            [
+              8.3974,
+              47.6689,
+              8.6404,
+              47.7078
+            ]
+          ]
+        }
+      },
+      "itemType": "feature",
+      "crs": [
+        "http://www.opengis.net/def/crs/EPSG/0/2056",
+        "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+      ],
+      "storageCrs": "http://www.opengis.net/def/crs/EPSG/0/2056"
+    },
+    {
+      "id": "militaer",
+      "links": [
+        {
+          "type": "text/html",
+          "rel": "describedby",
+          "title": "geocat.ch metadata record",
+          "href": "https://www.geocat.ch/geonetwork/srv/eng/catalog.search#/metadata/5263bc47-8723-4c02-988a-4ae0d425099c",
+          "hreflang": "en-US"
+        },
+        {
+          "type": "application/json",
+          "rel": "root",
+          "title": "The landing page of this server as JSON",
+          "href": "http://localhost:5000?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "root",
+          "title": "The landing page of this server as HTML",
+          "href": "http://localhost:5000?f=html"
+        },
+        {
+          "type": "application/json",
+          "rel": "self",
+          "title": "This document as JSON",
+          "href": "http://localhost:5000/collections/militaer?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "alternate",
+          "title": "This document as RDF (JSON-LD)",
+          "href": "http://localhost:5000/collections/militaer?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "alternate",
+          "title": "This document as HTML",
+          "href": "http://localhost:5000/collections/militaer?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in JSON",
+          "href": "http://localhost:5000/collections/militaer/schema?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in HTML",
+          "href": "http://localhost:5000/collections/militaer/schema?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as JSON",
+          "href": "http://localhost:5000/collections/militaer/queryables?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as HTML",
+          "href": "http://localhost:5000/collections/militaer/queryables?f=html"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as GeoJSON",
+          "href": "http://localhost:5000/collections/militaer/items?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "items",
+          "title": "Items as RDF (GeoJSON-LD)",
+          "href": "http://localhost:5000/collections/militaer/items?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "items",
+          "title": "Items as HTML",
+          "href": "http://localhost:5000/collections/militaer/items?f=html"
+        },
+        {
+          "type": "text/csv; charset=utf-8",
+          "rel": "items",
+          "title": "Items as CSV",
+          "href": "http://localhost:5000/collections/militaer/items?f=csv"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as jsonfg",
+          "href": "http://localhost:5000/collections/militaer/items?f=jsonfg"
+        },
+        {
+          "type": "image/png",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/map",
+          "title": "Map as png",
+          "href": "http://localhost:5000/collections/militaer/map?f=png"
+        }
+      ],
+      "title": "Sectoral Plan Military (SPM)",
+      "description": "The Sectoral Plan Military (SPM) is a planning and coordination tool belonging to the Federal Government within the meaning of Article 13 of the Swiss Spatial Planning Act (SPA, SR 700). It is used for ensuring territorial security and for reconciling military infrastructure and activities with civilian space requirements. The published INTERLIS transfer carries no coordinates; this collection uses it completed with the geometries of the same dataset's File Geodatabase export.",
+      "keywords": [
+        "armed forces",
+        "military activities",
+        "sectoral plan",
+        "Switzerland"
+      ],
+      "extent": {
+        "spatial": {
+          "bbox": [
+            [
+              5.9732,
+              46.102,
+              10.0326,
+              47.6078
+            ]
+          ]
+        }
+      },
+      "itemType": "feature",
+      "crs": [
+        "http://www.opengis.net/def/crs/EPSG/0/2056",
+        "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+      ],
+      "storageCrs": "http://www.opengis.net/def/crs/EPSG/0/2056"
+    },
+    {
+      "id": "militaer_punkte",
+      "links": [
+        {
+          "type": "text/html",
+          "rel": "describedby",
+          "title": "geocat.ch metadata record",
+          "href": "https://www.geocat.ch/geonetwork/srv/eng/catalog.search#/metadata/5263bc47-8723-4c02-988a-4ae0d425099c",
+          "hreflang": "en-US"
+        },
+        {
+          "type": "application/json",
+          "rel": "root",
+          "title": "The landing page of this server as JSON",
+          "href": "http://localhost:5000?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "root",
+          "title": "The landing page of this server as HTML",
+          "href": "http://localhost:5000?f=html"
+        },
+        {
+          "type": "application/json",
+          "rel": "self",
+          "title": "This document as JSON",
+          "href": "http://localhost:5000/collections/militaer_punkte?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "alternate",
+          "title": "This document as RDF (JSON-LD)",
+          "href": "http://localhost:5000/collections/militaer_punkte?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "alternate",
+          "title": "This document as HTML",
+          "href": "http://localhost:5000/collections/militaer_punkte?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in JSON",
+          "href": "http://localhost:5000/collections/militaer_punkte/schema?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/schema",
+          "title": "Schema of collection in HTML",
+          "href": "http://localhost:5000/collections/militaer_punkte/schema?f=html"
+        },
+        {
+          "type": "application/schema+json",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as JSON",
+          "href": "http://localhost:5000/collections/militaer_punkte/queryables?f=json"
+        },
+        {
+          "type": "text/html",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/queryables",
+          "title": "Queryables for this collection as HTML",
+          "href": "http://localhost:5000/collections/militaer_punkte/queryables?f=html"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as GeoJSON",
+          "href": "http://localhost:5000/collections/militaer_punkte/items?f=json"
+        },
+        {
+          "type": "application/ld+json",
+          "rel": "items",
+          "title": "Items as RDF (GeoJSON-LD)",
+          "href": "http://localhost:5000/collections/militaer_punkte/items?f=jsonld"
+        },
+        {
+          "type": "text/html",
+          "rel": "items",
+          "title": "Items as HTML",
+          "href": "http://localhost:5000/collections/militaer_punkte/items?f=html"
+        },
+        {
+          "type": "text/csv; charset=utf-8",
+          "rel": "items",
+          "title": "Items as CSV",
+          "href": "http://localhost:5000/collections/militaer_punkte/items?f=csv"
+        },
+        {
+          "type": "application/geo+json",
+          "rel": "items",
+          "title": "Items as jsonfg",
+          "href": "http://localhost:5000/collections/militaer_punkte/items?f=jsonfg"
+        },
+        {
+          "type": "image/png",
+          "rel": "http://www.opengis.net/def/rel/ogc/1.0/map",
+          "title": "Map as png",
+          "href": "http://localhost:5000/collections/militaer_punkte/map?f=png"
+        }
+      ],
+      "title": "Sectoral Plan Military (SPM) (points)",
+      "description": "The Sectoral Plan Military (SPM) is a planning and coordination tool belonging to the Federal Government within the meaning of Article 13 of the Swiss Spatial Planning Act (SPA, SR 700). It is used for ensuring territorial security and for reconciling military infrastructure and activities with civilian space requirements. The published INTERLIS transfer carries no coordinates; this collection uses it completed with the geometries of the same dataset's File Geodatabase export.",
+      "keywords": [
+        "armed forces",
+        "military activities",
+        "sectoral plan",
+        "Switzerland"
+      ],
+      "extent": {
+        "spatial": {
+          "bbox": [
+            [
+              5.9798,
+              46.1021,
+              9.9925,
+              47.6318
+            ]
+          ]
+        }
+      },
+      "itemType": "feature",
+      "crs": [
+        "http://www.opengis.net/def/crs/EPSG/0/2056",
+        "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+      ],
+      "storageCrs": "http://www.opengis.net/def/crs/EPSG/0/2056"
+    }
+  ],
+  "links": [
+    {
+      "type": "application/json",
+      "rel": "self",
+      "title": "This document as JSON",
+      "href": "http://localhost:5000/collections?f=json"
+    },
+    {
+      "type": "application/ld+json",
+      "rel": "alternate",
+      "title": "This document as RDF (JSON-LD)",
+      "href": "http://localhost:5000/collections?f=jsonld"
+    },
+    {
+      "type": "text/html",
+      "rel": "alternate",
+      "title": "This document as HTML",
+      "href": "http://localhost:5000/collections?f=html"
+    }
+  ]
+}

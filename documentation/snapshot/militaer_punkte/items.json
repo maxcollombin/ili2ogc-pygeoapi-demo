@@ -1,0 +1,347 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "01.101-32-M-1_p_cl1",
+        "name": null,
+        "name_de": "Waffenplatz Dübendorf (eidg.)",
+        "name_en": null,
+        "name_fr": "Waffenplatz Dübendorf (eidg.)",
+        "name_it": "Waffenplatz Dübendorf (eidg.)",
+        "name_rm": null,
+        "description": null,
+        "description_de": null,
+        "description_en": null,
+        "description_fr": null,
+        "description_it": null,
+        "description_rm": null,
+        "type_id": "32-M-1",
+        "type_name": null,
+        "type_name_de": "Standortfestlegung",
+        "type_name_en": null,
+        "type_name_fr": "Site d'implantation",
+        "type_name_it": "Ubicazione dell'impianto",
+        "type_name_rm": null,
+        "coord_id": 1,
+        "coord_name": null,
+        "coord_name_de": "Festsetzung",
+        "coord_name_en": null,
+        "coord_name_fr": "Coordination réglée",
+        "coord_name_it": "Dato acquisito",
+        "coord_name_rm": null,
+        "status_id": 1,
+        "status_name": null,
+        "status_name_de": "in Kraft",
+        "status_name_en": null,
+        "status_name_fr": "en vigueur",
+        "status_name_it": "in vigore",
+        "status_name_rm": null,
+        "symbolori": null,
+        "modinfo_validfrom": "2017-12-08T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2017-12-01T00:00:00",
+        "facility_name": null,
+        "facility_name_de": "Waffenplatz Dübendorf (eidg.)",
+        "facility_name_en": null,
+        "facility_name_fr": "Waffenplatz Dübendorf (eidg.)",
+        "facility_name_it": "Waffenplatz Dübendorf (eidg.)",
+        "facility_name_rm": null
+      },
+      "id": "01.101-32-M-1_p_cl1",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            8.62397004957566,
+            47.40486064390512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "01.102-32-M-1_p_cl1",
+        "name": null,
+        "name_de": "Waffenplatz Kloten - Bülach (eidg.)",
+        "name_en": null,
+        "name_fr": "Waffenplatz Kloten - Bülach (eidg.)",
+        "name_it": "Waffenplatz Kloten - Bülach (eidg.)",
+        "name_rm": null,
+        "description": null,
+        "description_de": null,
+        "description_en": null,
+        "description_fr": null,
+        "description_it": null,
+        "description_rm": null,
+        "type_id": "32-M-1",
+        "type_name": null,
+        "type_name_de": "Standortfestlegung",
+        "type_name_en": null,
+        "type_name_fr": "Site d'implantation",
+        "type_name_it": "Ubicazione dell'impianto",
+        "type_name_rm": null,
+        "coord_id": 1,
+        "coord_name": null,
+        "coord_name_de": "Festsetzung",
+        "coord_name_en": null,
+        "coord_name_fr": "Coordination réglée",
+        "coord_name_it": "Dato acquisito",
+        "coord_name_rm": null,
+        "status_id": 1,
+        "status_name": null,
+        "status_name_de": "in Kraft",
+        "status_name_en": null,
+        "status_name_fr": "en vigueur",
+        "status_name_it": "in vigore",
+        "status_name_rm": null,
+        "symbolori": null,
+        "modinfo_validfrom": "2017-12-08T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2017-12-01T00:00:00",
+        "facility_name": null,
+        "facility_name_de": "Waffenplatz Kloten - Bülach (eidg.)",
+        "facility_name_en": null,
+        "facility_name_fr": "Waffenplatz Kloten - Bülach (eidg.)",
+        "facility_name_it": "Waffenplatz Kloten - Bülach (eidg.)",
+        "facility_name_rm": null
+      },
+      "id": "01.102-32-M-1_p_cl1",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            8.528643314494282,
+            47.49308570264633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "01.103-32-M-1_p_cl1",
+        "name": null,
+        "name_de": "Waffenplatz Reppischtal (kant.)",
+        "name_en": null,
+        "name_fr": "Waffenplatz Reppischtal (kant.)",
+        "name_it": "Waffenplatz Reppischtal (kant.)",
+        "name_rm": null,
+        "description": null,
+        "description_de": null,
+        "description_en": null,
+        "description_fr": null,
+        "description_it": null,
+        "description_rm": null,
+        "type_id": "32-M-1",
+        "type_name": null,
+        "type_name_de": "Standortfestlegung",
+        "type_name_en": null,
+        "type_name_fr": "Site d'implantation",
+        "type_name_it": "Ubicazione dell'impianto",
+        "type_name_rm": null,
+        "coord_id": 1,
+        "coord_name": null,
+        "coord_name_de": "Festsetzung",
+        "coord_name_en": null,
+        "coord_name_fr": "Coordination réglée",
+        "coord_name_it": "Dato acquisito",
+        "coord_name_rm": null,
+        "status_id": 1,
+        "status_name": null,
+        "status_name_de": "in Kraft",
+        "status_name_en": null,
+        "status_name_fr": "en vigueur",
+        "status_name_it": "in vigore",
+        "status_name_rm": null,
+        "symbolori": null,
+        "modinfo_validfrom": "2017-12-08T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2017-12-01T00:00:00",
+        "facility_name": null,
+        "facility_name_de": "Waffenplatz Reppischtal (kant.)",
+        "facility_name_en": null,
+        "facility_name_fr": "Waffenplatz Reppischtal (kant.)",
+        "facility_name_it": "Waffenplatz Reppischtal (kant.)",
+        "facility_name_rm": null
+      },
+      "id": "01.103-32-M-1_p_cl1",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            8.425050865727826,
+            47.35987666939517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "01.201-32-M-1_p_cl1",
+        "name": null,
+        "name_de": "Schiessplatz Reppischtal",
+        "name_en": null,
+        "name_fr": "Schiessplatz Reppischtal",
+        "name_it": "Schiessplatz Reppischtal",
+        "name_rm": null,
+        "description": null,
+        "description_de": null,
+        "description_en": null,
+        "description_fr": null,
+        "description_it": null,
+        "description_rm": null,
+        "type_id": "32-M-1",
+        "type_name": null,
+        "type_name_de": "Standortfestlegung",
+        "type_name_en": null,
+        "type_name_fr": "Site d'implantation",
+        "type_name_it": "Ubicazione dell'impianto",
+        "type_name_rm": null,
+        "coord_id": 1,
+        "coord_name": null,
+        "coord_name_de": "Festsetzung",
+        "coord_name_en": null,
+        "coord_name_fr": "Coordination réglée",
+        "coord_name_it": "Dato acquisito",
+        "coord_name_rm": null,
+        "status_id": 1,
+        "status_name": null,
+        "status_name_de": "in Kraft",
+        "status_name_en": null,
+        "status_name_fr": "en vigueur",
+        "status_name_it": "in vigore",
+        "status_name_rm": null,
+        "symbolori": null,
+        "modinfo_validfrom": "2017-12-08T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2017-12-01T00:00:00",
+        "facility_name": null,
+        "facility_name_de": "Schiessplatz Reppischtal",
+        "facility_name_en": null,
+        "facility_name_fr": "Schiessplatz Reppischtal",
+        "facility_name_it": "Schiessplatz Reppischtal",
+        "facility_name_rm": null
+      },
+      "id": "01.201-32-M-1_p_cl1",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            8.411118626992682,
+            47.367590002438945
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "t_ili_tid": "01.202-32-M-1_p_cl1",
+        "name": null,
+        "name_de": "Schiessplatz Stigenhof",
+        "name_en": null,
+        "name_fr": "Schiessplatz Stigenhof",
+        "name_it": "Schiessplatz Stigenhof",
+        "name_rm": null,
+        "description": null,
+        "description_de": null,
+        "description_en": null,
+        "description_fr": null,
+        "description_it": null,
+        "description_rm": null,
+        "type_id": "32-M-1",
+        "type_name": null,
+        "type_name_de": "Standortfestlegung",
+        "type_name_en": null,
+        "type_name_fr": "Site d'implantation",
+        "type_name_it": "Ubicazione dell'impianto",
+        "type_name_rm": null,
+        "coord_id": 1,
+        "coord_name": null,
+        "coord_name_de": "Festsetzung",
+        "coord_name_en": null,
+        "coord_name_fr": "Coordination réglée",
+        "coord_name_it": "Dato acquisito",
+        "coord_name_rm": null,
+        "status_id": 1,
+        "status_name": null,
+        "status_name_de": "in Kraft",
+        "status_name_en": null,
+        "status_name_fr": "en vigueur",
+        "status_name_it": "in vigore",
+        "status_name_rm": null,
+        "symbolori": null,
+        "modinfo_validfrom": "2017-12-08T00:00:00",
+        "modinfo_validuntil": null,
+        "modinfo_latestmodification": "2017-12-01T00:00:00",
+        "facility_name": null,
+        "facility_name_de": "Schiessplatz Stigenhof",
+        "facility_name_en": null,
+        "facility_name_fr": "Schiessplatz Stigenhof",
+        "facility_name_it": "Schiessplatz Stigenhof",
+        "facility_name_rm": null
+      },
+      "id": "01.202-32-M-1_p_cl1",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            8.656606803146946,
+            47.39938124639986
+          ]
+        ]
+      }
+    }
+  ],
+  "numberReturned": 5,
+  "numberMatched": 344,
+  "links": [
+    {
+      "type": "application/geo+json",
+      "rel": "self",
+      "title": "This document as GeoJSON",
+      "href": "http://localhost:5000/collections/militaer_punkte/items?f=json&limit=5"
+    },
+    {
+      "rel": "alternate",
+      "type": "application/ld+json",
+      "title": "This document as RDF (JSON-LD)",
+      "href": "http://localhost:5000/collections/militaer_punkte/items?f=jsonld&limit=5"
+    },
+    {
+      "type": "text/html",
+      "rel": "alternate",
+      "title": "This document as HTML",
+      "href": "http://localhost:5000/collections/militaer_punkte/items?f=html&limit=5"
+    },
+    {
+      "type": "text/csv; charset=utf-8",
+      "rel": "alternate",
+      "title": "This document as CSV",
+      "href": "http://localhost:5000/collections/militaer_punkte/items?f=csv&limit=5"
+    },
+    {
+      "type": "application/geo+json",
+      "rel": "alternate",
+      "title": "This document as jsonfg",
+      "href": "http://localhost:5000/collections/militaer_punkte/items?f=jsonfg&limit=5"
+    },
+    {
+      "type": "application/geo+json",
+      "rel": "next",
+      "title": "Items (next)",
+      "href": "http://localhost:5000/collections/militaer_punkte/items?f=json&offset=5&limit=5"
+    },
+    {
+      "type": "application/json",
+      "title": "Sectoral Plan Military (SPM) (points)",
+      "rel": "collection",
+      "href": "http://localhost:5000/collections/militaer_punkte"
+    }
+  ],
+  "timeStamp": "2026-11-19T08:16:30.951898Z"
+}
