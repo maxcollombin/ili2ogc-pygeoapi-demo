@@ -78,7 +78,7 @@ Die JSON-FG-Antwort ergänzt `coordRefSys`, `conformsTo`, `featureSchema` und pr
 - mit einem anderen `crs` enthält `place` die Geometrie in diesem System:
   <http://localhost:5000/collections/waldabstandslinien/items?f=jsonfg&limit=1&crs=http://www.opengis.net/def/crs/EPSG/0/2056>
 
-Der Medientyp ist `application/geo+json`, und `featureType` trägt den generischen Wert `OGRGeoJSON`, nicht den Namen der INTERLIS-Klasse.
+Der Medientyp ist `application/geo+json`, und `featureType` trägt den Namen der INTERLIS-VIEW der Collection (hier `linien`), im Dokument und bei jedem Objekt.
 
 ## Nützliche Parameter
 
